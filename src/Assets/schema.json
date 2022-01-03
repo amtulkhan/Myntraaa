@@ -1,0 +1,4634 @@
+
+{
+    "searchresult": [
+      {
+        "ussid": "1002208903415984199",
+        "brandname": "Mufti",
+        "productId": "MP000000009316544",
+        "productname": "Mufti Navy Checks Cotton Full Sleeves Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316535_437Wx649H_202104110844451.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316535_437Wx649H_202104110844451.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1574.00",
+            "doubleValue": 1574.0,
+            "formattedValueNoDecimal": "₹1574",
+            "commaFormattedValue": "₹1,574.00",
+            "commaFormattedValueNoDecimal": "₹1,574",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2099.00",
+            "doubleValue": 2099.0,
+            "formattedValueNoDecimal": "₹2099",
+            "commaFormattedValue": "₹2,099.00",
+            "commaFormattedValueNoDecimal": "₹2,099",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-navy-checks-cotton-full-sleeves-shirt/p-mp000000009316544",
+        "orgProductCode": "MP000000009316535",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Navy Checks Cotton Full Sleeves Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "100001300875197006",
+        "brandname": "WES Casuals",
+        "productId": "MP000000010989857",
+        "productname": "WES Casuals by Westside Blue Checkered Relaxed Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010989849_437Wx649H_202110221221011.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010989849_437Wx649H_202110221221011.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/wes-casuals-by-westside-blue-checkered-relaxed-fit-shirt/p-mp000000010989857",
+        "orgProductCode": "MP000000010989849",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "WES Casuals by Westside Blue Checkered Relaxed Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "100001300875195005",
+        "brandname": "WES Casuals",
+        "productId": "MP000000011155662",
+        "productname": "WES Casuals by Westside Wine Checkered Slim-Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011155655_437Wx649H_202111161556521.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011155655_437Wx649H_202111161556521.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.33,
+        "totalNoOfReviews": 0,
+        "ratingCount": 3,
+        "webURL": "/wes-casuals-by-westside-wine-checkered-slim-fit-shirt/p-mp000000011155662",
+        "reviewUrl": "/wes-casuals-by-westside-wine-checkered-slim-fit-shirt/p-mp000000011155662/product-reviews",
+        "orgProductCode": "MP000000011155662",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "WES Casuals by Westside Wine Checkered Slim-Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "100001300876090001",
+        "brandname": "ETA",
+        "productId": "MP000000011219260",
+        "productname": "ETA by Westside Dark Green Resort-Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011219260_437Wx649H_202111192040511.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011219260_437Wx649H_202111192040511.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 3,
+        "webURL": "/eta-by-westside-dark-green-resort-fit-shirt/p-mp000000011219260",
+        "reviewUrl": "/eta-by-westside-dark-green-resort-fit-shirt/p-mp000000011219260/product-reviews",
+        "orgProductCode": "MP000000011219265",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "ETA by Westside Dark Green Resort-Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "100001300879572003",
+        "brandname": "ETA",
+        "productId": "MP000000011396688",
+        "productname": "ETA by Westside Wine Striped Resort-Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011396602_437Wx649H_202112090304561.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011396602_437Wx649H_202112090304561.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1299.00",
+            "doubleValue": 1299.0,
+            "formattedValueNoDecimal": "₹1299",
+            "commaFormattedValue": "₹1,299.00",
+            "commaFormattedValueNoDecimal": "₹1,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "newProduct": true,
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/eta-by-westside-wine-striped-resort-fit-shirt/p-mp000000011396688",
+        "orgProductCode": "MP000000011396685",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "ETA by Westside Wine Striped Resort-Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818905310015305",
+        "brandname": "Mufti",
+        "productId": "MP000000009004109",
+        "productname": "Mufti Yellow Full Sleeves Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009004095_437Wx649H_202103062334291.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009004095_437Wx649H_202103062334291.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1349.00",
+            "doubleValue": 1349.0,
+            "formattedValueNoDecimal": "₹1349",
+            "commaFormattedValue": "₹1,349.00",
+            "commaFormattedValueNoDecimal": "₹1,349",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1799.00",
+            "doubleValue": 1799.0,
+            "formattedValueNoDecimal": "₹1799",
+            "commaFormattedValue": "₹1,799.00",
+            "commaFormattedValueNoDecimal": "₹1,799",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-yellow-full-sleeves-shirt/p-mp000000009004109",
+        "orgProductCode": "MP000000009004095",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Yellow Full Sleeves Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818905310016838",
+        "brandname": "Mufti",
+        "productId": "MP000000009004124",
+        "productname": "Mufti Yellow Full Sleeves Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009004124_437Wx649H_202103062335321.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009004124_437Wx649H_202103062335321.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1349.00",
+            "doubleValue": 1349.0,
+            "formattedValueNoDecimal": "₹1349",
+            "commaFormattedValue": "₹1,349.00",
+            "commaFormattedValueNoDecimal": "₹1,349",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1799.00",
+            "doubleValue": 1799.0,
+            "formattedValueNoDecimal": "₹1799",
+            "commaFormattedValue": "₹1,799.00",
+            "commaFormattedValueNoDecimal": "₹1,799",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/mufti-yellow-full-sleeves-checks-shirt/p-mp000000009004124",
+        "reviewUrl": "/mufti-yellow-full-sleeves-checks-shirt/p-mp000000009004124/product-reviews",
+        "orgProductCode": "MP000000009004117",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Yellow Full Sleeves Checks Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1000818903415987466",
+        "brandname": "Mufti",
+        "productId": "MP000000009316326",
+        "productname": "Mufti Black Striped Short Sleeves Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316326_437Wx649H_202104110833471.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316326_437Wx649H_202104110833471.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1349.00",
+            "doubleValue": 1349.0,
+            "formattedValueNoDecimal": "₹1349",
+            "commaFormattedValue": "₹1,349.00",
+            "commaFormattedValueNoDecimal": "₹1,349",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1799.00",
+            "doubleValue": 1799.0,
+            "formattedValueNoDecimal": "₹1799",
+            "commaFormattedValue": "₹1,799.00",
+            "commaFormattedValueNoDecimal": "₹1,799",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-black-striped-short-sleeves-cotton-shirt/p-mp000000009316326",
+        "orgProductCode": "MP000000009316326",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Black Striped Short Sleeves Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818903415987886",
+        "brandname": "Mufti",
+        "productId": "MP000000009316340",
+        "productname": "Mufti Black Striped Full Sleeves Slim Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316340_437Wx649H_202104110834401.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316340_437Wx649H_202104110834401.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1499.00",
+            "doubleValue": 1499.0,
+            "formattedValueNoDecimal": "₹1499",
+            "commaFormattedValue": "₹1,499.00",
+            "commaFormattedValueNoDecimal": "₹1,499",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-black-striped-full-sleeves-slim-fit-shirt/p-mp000000009316340",
+        "orgProductCode": "MP000000009316344",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Black Striped Full Sleeves Slim Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818903415988050",
+        "brandname": "Mufti",
+        "productId": "MP000000009316352",
+        "productname": "Mufti Black Striped Full Sleeves Slim Fit Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316342_437Wx649H_202104110834441.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316342_437Wx649H_202104110834441.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1649.00",
+            "doubleValue": 1649.0,
+            "formattedValueNoDecimal": "₹1649",
+            "commaFormattedValue": "₹1,649.00",
+            "commaFormattedValueNoDecimal": "₹1,649",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2199.00",
+            "doubleValue": 2199.0,
+            "formattedValueNoDecimal": "₹2199",
+            "commaFormattedValue": "₹2,199.00",
+            "commaFormattedValueNoDecimal": "₹2,199",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-black-striped-full-sleeves-slim-fit-cotton-shirt/p-mp000000009316352",
+        "orgProductCode": "MP000000009316355",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Black Striped Full Sleeves Slim Fit Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818903415986209",
+        "brandname": "Mufti",
+        "productId": "MP000000009485779",
+        "productname": "Mufti Black Cotton Slim Fit Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009485696_437Wx649H_202105030500541.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009485696_437Wx649H_202105030500541.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1499.00",
+            "doubleValue": 1499.0,
+            "formattedValueNoDecimal": "₹1499",
+            "commaFormattedValue": "₹1,499.00",
+            "commaFormattedValueNoDecimal": "₹1,499",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/mufti-black-cotton-slim-fit-checks-shirt/p-mp000000009485779",
+        "reviewUrl": "/mufti-black-cotton-slim-fit-checks-shirt/p-mp000000009485779/product-reviews",
+        "orgProductCode": "MP000000009485696",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Black Cotton Slim Fit Checks Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1002208903415982942",
+        "brandname": "Mufti",
+        "productId": "MP000000009316521",
+        "productname": "Mufti Navy Full Sleeves Printed Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316524_437Wx649H_202104110844081.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009316524_437Wx649H_202104110844081.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1874.00",
+            "doubleValue": 1874.0,
+            "formattedValueNoDecimal": "₹1874",
+            "commaFormattedValue": "₹1,874.00",
+            "commaFormattedValueNoDecimal": "₹1,874",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2499.00",
+            "doubleValue": 2499.0,
+            "formattedValueNoDecimal": "₹2499",
+            "commaFormattedValue": "₹2,499.00",
+            "commaFormattedValueNoDecimal": "₹2,499",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-navy-full-sleeves-printed-cotton-shirt/p-mp000000009316521",
+        "orgProductCode": "MP000000009316518",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Navy Full Sleeves Printed Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818905310014735",
+        "brandname": "Mufti",
+        "productId": "MP000000009003806",
+        "productname": "Mufti Navy Printed Full Sleeves Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009003806_437Wx649H_202103062319261.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009003806_437Wx649H_202103062319261.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1499.00",
+            "doubleValue": 1499.0,
+            "formattedValueNoDecimal": "₹1499",
+            "commaFormattedValue": "₹1,499.00",
+            "commaFormattedValueNoDecimal": "₹1,499",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-navy-printed-full-sleeves-shirt/p-mp000000009003806",
+        "orgProductCode": "MP000000009003806",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Navy Printed Full Sleeves Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000818905310016357",
+        "brandname": "Mufti",
+        "productId": "MP000000009055414",
+        "productname": "Mufti Navy Full Sleeves Slim Fit Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009055413_437Wx649H_202103121543541.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009055413_437Wx649H_202103121543541.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "25",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1424.00",
+            "doubleValue": 1424.0,
+            "formattedValueNoDecimal": "₹1424",
+            "commaFormattedValue": "₹1,424.00",
+            "commaFormattedValueNoDecimal": "₹1,424",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1899.00",
+            "doubleValue": 1899.0,
+            "formattedValueNoDecimal": "₹1899",
+            "commaFormattedValue": "₹1,899.00",
+            "commaFormattedValueNoDecimal": "₹1,899",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/mufti-navy-full-sleeves-slim-fit-cotton-shirt/p-mp000000009055414",
+        "orgProductCode": "MP000000009055414",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Mufti Navy Full Sleeves Slim Fit Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "100001300874283008",
+        "brandname": "Nuon Men",
+        "productId": "MP000000011282892",
+        "productname": "Nuon by Westside Charcoal Slim Fit Denim Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011282885_437Wx649H_202111272204081.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011282885_437Wx649H_202111272204081.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1499.00",
+            "doubleValue": 1499.0,
+            "formattedValueNoDecimal": "₹1499",
+            "commaFormattedValue": "₹1,499.00",
+            "commaFormattedValueNoDecimal": "₹1,499",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1499.00",
+            "doubleValue": 1499.0,
+            "formattedValueNoDecimal": "₹1499",
+            "commaFormattedValue": "₹1,499.00",
+            "commaFormattedValueNoDecimal": "₹1,499",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 2,
+        "webURL": "/nuon-by-westside-charcoal-slim-fit-denim-shirt/p-mp000000011282892",
+        "reviewUrl": "/nuon-by-westside-charcoal-slim-fit-denim-shirt/p-mp000000011282892/product-reviews",
+        "orgProductCode": "MP000000011282891",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Nuon by Westside Charcoal Slim Fit Denim Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1250508907966667242",
+        "brandname": "Spykar",
+        "productId": "MP000000010145480",
+        "productname": "Spykar White Slim Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010145533_437Wx649H_202108012005301.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010145533_437Wx649H_202108012005301.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "30",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1399.30",
+            "doubleValue": 1399.3,
+            "formattedValueNoDecimal": "₹1399",
+            "commaFormattedValue": "₹1,399.3",
+            "commaFormattedValueNoDecimal": "₹1,399",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 5.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/spykar-white-slim-fit-shirt/p-mp000000010145480",
+        "reviewUrl": "/spykar-white-slim-fit-shirt/p-mp000000010145480/product-reviews",
+        "orgProductCode": "MP000000010145478",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Spykar White Slim Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1262148907557608814",
+        "brandname": "Pepe Jeans",
+        "productId": "MP000000006297944",
+        "productname": "Pepe Jeans Black Slim Fit Printed Shirt",
+        "imageURL": "//img.tatacliq.com/images/i6/437Wx649H/MP000000006297077_437Wx649H_20200111141825.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i6/437Wx649H/MP000000006297077_437Wx649H_20200111141825.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "70",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹599.00",
+            "doubleValue": 599.0,
+            "formattedValueNoDecimal": "₹599",
+            "commaFormattedValue": "₹599.00",
+            "commaFormattedValueNoDecimal": "₹599",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/pepe-jeans-black-slim-fit-printed-shirt/p-mp000000006297944",
+        "orgProductCode": "MP000000006297944",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Pepe Jeans Black Slim Fit Printed Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "100001300883210003",
+        "brandname": "Nuon Men",
+        "productId": "MP000000011483746",
+        "productname": "Nuon by Westside Black Striped Relaxed-Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011483750_437Wx649H_202112162057201.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011483750_437Wx649H_202112162057201.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹999.00",
+            "doubleValue": 999.0,
+            "formattedValueNoDecimal": "₹999",
+            "commaFormattedValue": "₹999.00",
+            "commaFormattedValueNoDecimal": "₹999",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹999.00",
+            "doubleValue": 999.0,
+            "formattedValueNoDecimal": "₹999",
+            "commaFormattedValue": "₹999.00",
+            "commaFormattedValueNoDecimal": "₹999",
+            "currencySymbol": "₹"
+          }
+        },
+        "newProduct": true,
+        "onlineExclusive": false,
+        "averageRating": 5.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/nuon-by-westside-black-striped-relaxed-fit-shirt/p-mp000000011483746",
+        "reviewUrl": "/nuon-by-westside-black-striped-relaxed-fit-shirt/p-mp000000011483746/product-reviews",
+        "orgProductCode": "MP000000011483751",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Nuon by Westside Black Striped Relaxed-Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1248488905464034948",
+        "brandname": "Arrow",
+        "productId": "MP000000011362702",
+        "productname": "Arrow White Regular Fit Striped Cotton Shirt - Flexi Collection",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011362693_437Wx649H_202112052130021.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011362693_437Wx649H_202112052130021.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "30",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1608.00",
+            "doubleValue": 1608.0,
+            "formattedValueNoDecimal": "₹1608",
+            "commaFormattedValue": "₹1,608.00",
+            "commaFormattedValueNoDecimal": "₹1,608",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2299.00",
+            "doubleValue": 2299.0,
+            "formattedValueNoDecimal": "₹2299",
+            "commaFormattedValue": "₹2,299.00",
+            "commaFormattedValueNoDecimal": "₹2,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "newProduct": true,
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/arrow-white-regular-fit-striped-cotton-shirt--flexi-collection/p-mp000000011362702",
+        "reviewUrl": "/arrow-white-regular-fit-striped-cotton-shirt--flexi-collection/p-mp000000011362702/product-reviews",
+        "orgProductCode": "MP000000011362693",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Arrow White Regular Fit Striped Cotton Shirt - Flexi Collection",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1000978905238663916",
+        "brandname": "Louis Philippe",
+        "productId": "MP000000009463071",
+        "productname": "Louis Philippe Pink Slim Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009463072_437Wx649H_202104290527581.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009463072_437Wx649H_202104290527581.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "20",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2000.00",
+            "doubleValue": 2000.0,
+            "formattedValueNoDecimal": "₹2000",
+            "commaFormattedValue": "₹2,000.00",
+            "commaFormattedValueNoDecimal": "₹2,000",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2499.00",
+            "doubleValue": 2499.0,
+            "formattedValueNoDecimal": "₹2499",
+            "commaFormattedValue": "₹2,499.00",
+            "commaFormattedValueNoDecimal": "₹2,499",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 5.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/louis-philippe-pink-slim-fit-shirt/p-mp000000009463071",
+        "reviewUrl": "/louis-philippe-pink-slim-fit-shirt/p-mp000000009463071/product-reviews",
+        "orgProductCode": "MP000000009463071",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Louis Philippe Pink Slim Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1247858905074285310",
+        "brandname": "Pepe Jeans",
+        "productId": "MP000000008878592",
+        "productname": "Pepe Jeans Navy Regular Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008878595_437Wx649H_202102220259191.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008878595_437Wx649H_202102220259191.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "60",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹959.00",
+            "doubleValue": 959.0,
+            "formattedValueNoDecimal": "₹959",
+            "commaFormattedValue": "₹959.00",
+            "commaFormattedValueNoDecimal": "₹959",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2399.00",
+            "doubleValue": 2399.0,
+            "formattedValueNoDecimal": "₹2399",
+            "commaFormattedValue": "₹2,399.00",
+            "commaFormattedValueNoDecimal": "₹2,399",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 3.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 2,
+        "webURL": "/pepe-jeans-navy-regular-fit-shirt/p-mp000000008878592",
+        "reviewUrl": "/pepe-jeans-navy-regular-fit-shirt/p-mp000000008878592/product-reviews",
+        "orgProductCode": "MP000000008878589",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Pepe Jeans Navy Regular Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1262271002373617001",
+        "brandname": "Lee Cooper",
+        "productId": "MP000000009193269",
+        "productname": "Lee Cooper Peach Regular Fit Striped Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009193262_437Wx649H_202103300025501.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009193262_437Wx649H_202103300025501.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "40",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1199.00",
+            "doubleValue": 1199.0,
+            "formattedValueNoDecimal": "₹1199",
+            "commaFormattedValue": "₹1,199.00",
+            "commaFormattedValueNoDecimal": "₹1,199",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/lee-cooper-peach-regular-fit-striped-cotton-shirt/p-mp000000009193269",
+        "orgProductCode": "MP000000009193271",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Lee Cooper Peach Regular Fit Striped Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1248488905202888116",
+        "brandname": "Aeropostale",
+        "productId": "MP000000011354246",
+        "productname": "Aeropostale White Cotton Regular Fit Floral Print Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011354246_437Wx649H_202112042126431.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011354246_437Wx649H_202112042126431.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "40",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1198.00",
+            "doubleValue": 1198.0,
+            "formattedValueNoDecimal": "₹1198",
+            "commaFormattedValue": "₹1,198.00",
+            "commaFormattedValueNoDecimal": "₹1,198",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "newProduct": true,
+        "onlineExclusive": false,
+        "averageRating": 1.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/aeropostale-white-cotton-regular-fit-floral-print-shirt/p-mp000000011354246",
+        "reviewUrl": "/aeropostale-white-cotton-regular-fit-floral-print-shirt/p-mp000000011354246/product-reviews",
+        "orgProductCode": "MP000000011354246",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Aeropostale White Cotton Regular Fit Floral Print Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1248488905034833742",
+        "brandname": "Arrow",
+        "productId": "MP000000006858493",
+        "productname": "Arrow Pink Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i4/437Wx649H/MP000000006858476_437Wx649H_20200419034924.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i4/437Wx649H/MP000000006858476_437Wx649H_20200419034924.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "45",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1318.00",
+            "doubleValue": 1318.0,
+            "formattedValueNoDecimal": "₹1318",
+            "commaFormattedValue": "₹1,318.00",
+            "commaFormattedValueNoDecimal": "₹1,318",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2399.00",
+            "doubleValue": 2399.0,
+            "formattedValueNoDecimal": "₹2399",
+            "commaFormattedValue": "₹2,399.00",
+            "commaFormattedValueNoDecimal": "₹2,399",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 3.67,
+        "totalNoOfReviews": 0,
+        "ratingCount": 3,
+        "webURL": "/arrow-pink-checks-shirt/p-mp000000006858493",
+        "reviewUrl": "/arrow-pink-checks-shirt/p-mp000000006858493/product-reviews",
+        "orgProductCode": "MP000000006858496",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Arrow Pink Checks Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "100097400328243026",
+        "brandname": "American Eagle Outfitters",
+        "productId": "MP000000009160626",
+        "productname": "American Eagle Outfitters Blue Regular Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009160616_437Wx649H_202103251821521.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009160616_437Wx649H_202103251821521.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "50",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1000.00",
+            "doubleValue": 1000.0,
+            "formattedValueNoDecimal": "₹1000",
+            "commaFormattedValue": "₹1,000.00",
+            "commaFormattedValueNoDecimal": "₹1,000",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/american-eagle-outfitters-blue-regular-fit-shirt/p-mp000000009160626",
+        "orgProductCode": "MP000000009160614",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "American Eagle Outfitters Blue Regular Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1259295400973846448",
+        "brandname": "Levi's",
+        "productId": "MP000000010869479",
+        "productname": "Levi's Blue Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010869514_437Wx649H_202110091934251.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010869514_437Wx649H_202110091934251.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "40",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1859.40",
+            "doubleValue": 1859.4,
+            "formattedValueNoDecimal": "₹1859",
+            "commaFormattedValue": "₹1,859.4",
+            "commaFormattedValueNoDecimal": "₹1,859",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹3099.00",
+            "doubleValue": 3099.0,
+            "formattedValueNoDecimal": "₹3099",
+            "commaFormattedValue": "₹3,099.00",
+            "commaFormattedValueNoDecimal": "₹3,099",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/levis-blue-checks-shirt/p-mp000000010869479",
+        "reviewUrl": "/levis-blue-checks-shirt/p-mp000000010869479/product-reviews",
+        "orgProductCode": "MP000000010869492",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Levi's Blue Checks Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1254648907279216120",
+        "brandname": "Rare Rabbit",
+        "productId": "MP000000010040037",
+        "productname": "Rare Rabbit Black Cotton Regular Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010040037_437Wx649H_202107201629021.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010040037_437Wx649H_202107201629021.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "0",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹3299.00",
+            "doubleValue": 3299.0,
+            "formattedValueNoDecimal": "₹3299",
+            "commaFormattedValue": "₹3,299.00",
+            "commaFormattedValueNoDecimal": "₹3,299",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹3299.00",
+            "doubleValue": 3299.0,
+            "formattedValueNoDecimal": "₹3299",
+            "commaFormattedValue": "₹3,299.00",
+            "commaFormattedValueNoDecimal": "₹3,299",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/rare-rabbit-black-cotton-regular-fit-shirt/p-mp000000010040037",
+        "orgProductCode": "MP000000010040055",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Rare Rabbit Black Cotton Regular Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1247358905241060368",
+        "brandname": "GANT",
+        "productId": "MP000000010667870",
+        "productname": "GANT Blue Regular Fit Printed Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010667868_437Wx649H_202109212358581.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010667868_437Wx649H_202109212358581.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "50",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹5499.00",
+            "doubleValue": 5499.0,
+            "formattedValueNoDecimal": "₹5499",
+            "commaFormattedValue": "₹5,499.00",
+            "commaFormattedValueNoDecimal": "₹5,499",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹10999.00",
+            "doubleValue": 10999.0,
+            "formattedValueNoDecimal": "₹10999",
+            "commaFormattedValue": "₹10,999.00",
+            "commaFormattedValueNoDecimal": "₹10,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/gant-blue-regular-fit-printed-cotton-shirt/p-mp000000010667870",
+        "orgProductCode": "MP000000010667868",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "GANT Blue Regular Fit Printed Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000978905482175319",
+        "brandname": "Van Heusen",
+        "productId": "MP000000011091749",
+        "productname": "Van Heusen White Cotton Slim Fit Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011091617_437Wx649H_202111040402291.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000011091617_437Wx649H_202111040402291.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "50",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹950.00",
+            "doubleValue": 950.0,
+            "formattedValueNoDecimal": "₹950",
+            "commaFormattedValue": "₹950.00",
+            "commaFormattedValueNoDecimal": "₹950",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1899.00",
+            "doubleValue": 1899.0,
+            "formattedValueNoDecimal": "₹1899",
+            "commaFormattedValue": "₹1,899.00",
+            "commaFormattedValueNoDecimal": "₹1,899",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/van-heusen-white-cotton-slim-fit-checks-shirt/p-mp000000011091749",
+        "orgProductCode": "MP000000011091749",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Van Heusen White Cotton Slim Fit Checks Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000978905209849837",
+        "brandname": "Allen Solly",
+        "productId": "MP000000009310076",
+        "productname": "Allen Solly Navy Full Sleeves Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009310067_437Wx649H_202104110256361.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009310067_437Wx649H_202104110256361.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "30",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1190.00",
+            "doubleValue": 1190.0,
+            "formattedValueNoDecimal": "₹1190",
+            "commaFormattedValue": "₹1,190.00",
+            "commaFormattedValueNoDecimal": "₹1,190",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1699.00",
+            "doubleValue": 1699.0,
+            "formattedValueNoDecimal": "₹1699",
+            "commaFormattedValue": "₹1,699.00",
+            "commaFormattedValueNoDecimal": "₹1,699",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/allen-solly-navy-full-sleeves-cotton-shirt/p-mp000000009310076",
+        "orgProductCode": "MP000000009310076",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Allen Solly Navy Full Sleeves Cotton Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1255088905271071457",
+        "brandname": "Being Human",
+        "productId": "MP000000010099636",
+        "productname": "Being Human Blue Cotton Solid Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010099549_437Wx649H_202107282125271.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010099549_437Wx649H_202107282125271.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "50",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1099.00",
+            "doubleValue": 1099.0,
+            "formattedValueNoDecimal": "₹1099",
+            "commaFormattedValue": "₹1,099.00",
+            "commaFormattedValueNoDecimal": "₹1,099",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2199.00",
+            "doubleValue": 2199.0,
+            "formattedValueNoDecimal": "₹2199",
+            "commaFormattedValue": "₹2,199.00",
+            "commaFormattedValueNoDecimal": "₹2,199",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 3.67,
+        "totalNoOfReviews": 0,
+        "ratingCount": 3,
+        "webURL": "/being-human-blue-cotton-solid-shirt/p-mp000000010099636",
+        "reviewUrl": "/being-human-blue-cotton-solid-shirt/p-mp000000010099636/product-reviews",
+        "orgProductCode": "MP000000010099634",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Being Human Blue Cotton Solid Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1240133493626",
+        "brandname": "Globus",
+        "productId": "MP000000006696019",
+        "productname": "Globus White Cotton Regular Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i4/437Wx649H/MP000000006696036_437Wx649H_20200312204647.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i4/437Wx649H/MP000000006696036_437Wx649H_20200312204647.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "67",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹399.00",
+            "doubleValue": 399.0,
+            "formattedValueNoDecimal": "₹399",
+            "commaFormattedValue": "₹399.00",
+            "commaFormattedValueNoDecimal": "₹399",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1199.00",
+            "doubleValue": 1199.0,
+            "formattedValueNoDecimal": "₹1199",
+            "commaFormattedValue": "₹1,199.00",
+            "commaFormattedValueNoDecimal": "₹1,199",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 4.5,
+        "totalNoOfReviews": 2,
+        "ratingCount": 2,
+        "webURL": "/globus-white-cotton-regular-fit-shirt/p-mp000000006696019",
+        "reviewUrl": "/globus-white-cotton-regular-fit-shirt/p-mp000000006696019/product-reviews",
+        "orgProductCode": "MP000000006696019",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Globus White Cotton Regular Fit Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1248488905202214502",
+        "brandname": "U.S. Polo Assn.",
+        "productId": "MP000000010219739",
+        "productname": "U.S. Polo Assn. Pink & Navy Cotton Regular Fit Checks Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010219680_437Wx649H_202108080708501.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010219680_437Wx649H_202108080708501.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "35",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1623.00",
+            "doubleValue": 1623.0,
+            "formattedValueNoDecimal": "₹1623",
+            "commaFormattedValue": "₹1,623.00",
+            "commaFormattedValueNoDecimal": "₹1,623",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2499.00",
+            "doubleValue": 2499.0,
+            "formattedValueNoDecimal": "₹2499",
+            "commaFormattedValue": "₹2,499.00",
+            "commaFormattedValueNoDecimal": "₹2,499",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 5.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/u-s-polo-assn-pink-navy-cotton-regular-fit-checks-shirt/p-mp000000010219739",
+        "reviewUrl": "/u-s-polo-assn-pink-navy-cotton-regular-fit-checks-shirt/p-mp000000010219739/product-reviews",
+        "orgProductCode": "MP000000010219727",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "U.S. Polo Assn. Pink & Navy Cotton Regular Fit Checks Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1247358905241056637",
+        "brandname": "GANT",
+        "productId": "MP000000009372459",
+        "productname": "GANT Blue & White Striped Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009372466_437Wx649H_202104172050141.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009372466_437Wx649H_202104172050141.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "60",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹3199.00",
+            "doubleValue": 3199.0,
+            "formattedValueNoDecimal": "₹3199",
+            "commaFormattedValue": "₹3,199.00",
+            "commaFormattedValueNoDecimal": "₹3,199",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹7999.00",
+            "doubleValue": 7999.0,
+            "formattedValueNoDecimal": "₹7999",
+            "commaFormattedValue": "₹7,999.00",
+            "commaFormattedValueNoDecimal": "₹7,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/gant-blue-white-striped-shirt/p-mp000000009372459",
+        "orgProductCode": "MP000000009372459",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "GANT Blue & White Striped Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1254648907279216687",
+        "brandname": "Rare Rabbit",
+        "productId": "MP000000010039843",
+        "productname": "Rare Rabbit Peach Cotton Regular Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010039803_437Wx649H_202107201540031.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010039803_437Wx649H_202107201540031.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "40",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1799.00",
+            "doubleValue": 1799.0,
+            "formattedValueNoDecimal": "₹1799",
+            "commaFormattedValue": "₹1,799.00",
+            "commaFormattedValueNoDecimal": "₹1,799",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2999.00",
+            "doubleValue": 2999.0,
+            "formattedValueNoDecimal": "₹2999",
+            "commaFormattedValue": "₹2,999.00",
+            "commaFormattedValueNoDecimal": "₹2,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/rare-rabbit-peach-cotton-regular-fit-shirt/p-mp000000010039843",
+        "orgProductCode": "MP000000010039838",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Rare Rabbit Peach Cotton Regular Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000978905325264880",
+        "brandname": "Van Heusen",
+        "productId": "MP000000009213419",
+        "productname": "Van Heusen Denim Labs Blue & Red Reversible Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009213407_437Wx649H_202104020743361.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009213407_437Wx649H_202104020743361.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "10",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2520.00",
+            "doubleValue": 2520.0,
+            "formattedValueNoDecimal": "₹2520",
+            "commaFormattedValue": "₹2,520.00",
+            "commaFormattedValueNoDecimal": "₹2,520",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2799.00",
+            "doubleValue": 2799.0,
+            "formattedValueNoDecimal": "₹2799",
+            "commaFormattedValue": "₹2,799.00",
+            "commaFormattedValueNoDecimal": "₹2,799",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/van-heusen-denim-labs-blue-red-reversible-shirt/p-mp000000009213419",
+        "orgProductCode": "MP000000009213407",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Van Heusen Denim Labs Blue & Red Reversible Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "124681XMSA09240W482F038",
+        "brandname": "Parx",
+        "productId": "MP000000009237656",
+        "productname": "Parx White Cotton Slim Fit Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009237656_437Wx649H_202104041955171.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009237656_437Wx649H_202104041955171.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "60",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹799.00",
+            "doubleValue": 799.0,
+            "formattedValueNoDecimal": "₹799",
+            "commaFormattedValue": "₹799.00",
+            "commaFormattedValueNoDecimal": "₹799",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "totalNoOfReviews": 0,
+        "ratingCount": 0,
+        "webURL": "/parx-white-cotton-slim-fit-shirt/p-mp000000009237656",
+        "orgProductCode": "MP000000009237907",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Parx White Cotton Slim Fit Shirt",
+        "displayRatingReview": false
+      },
+      {
+        "ussid": "1000978907983737539",
+        "brandname": "Peter England",
+        "productId": "MP000000008437787",
+        "productname": "Peter England Blue Slim Fit Striped Cotton Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008437783_437Wx649H_202012241631481.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008437783_437Wx649H_202012241631481.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "55",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹810.00",
+            "doubleValue": 810.0,
+            "formattedValueNoDecimal": "₹810",
+            "commaFormattedValue": "₹810.00",
+            "commaFormattedValueNoDecimal": "₹810",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1799.00",
+            "doubleValue": 1799.0,
+            "formattedValueNoDecimal": "₹1799",
+            "commaFormattedValue": "₹1,799.00",
+            "commaFormattedValueNoDecimal": "₹1,799",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 1.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 1,
+        "webURL": "/peter-england-blue-slim-fit-striped-cotton-shirt/p-mp000000008437787",
+        "reviewUrl": "/peter-england-blue-slim-fit-striped-cotton-shirt/p-mp000000008437787/product-reviews",
+        "orgProductCode": "MP000000008437783",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Peter England Blue Slim Fit Striped Cotton Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "100213RFS0295XL",
+        "brandname": "Red Tape",
+        "productId": "MP000000010372615",
+        "productname": "Red Tape White Striped Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010372606_437Wx649H_202108212153421.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000010372606_437Wx649H_202108212153421.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "65",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1049.00",
+            "doubleValue": 1049.0,
+            "formattedValueNoDecimal": "₹1049",
+            "commaFormattedValue": "₹1,049.00",
+            "commaFormattedValueNoDecimal": "₹1,049",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹2999.00",
+            "doubleValue": 2999.0,
+            "formattedValueNoDecimal": "₹2999",
+            "commaFormattedValue": "₹2,999.00",
+            "commaFormattedValueNoDecimal": "₹2,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 3.8,
+        "totalNoOfReviews": 0,
+        "ratingCount": 5,
+        "webURL": "/red-tape-white-striped-shirt/p-mp000000010372615",
+        "reviewUrl": "/red-tape-white-striped-shirt/p-mp000000010372615/product-reviews",
+        "orgProductCode": "MP000000010372606",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Red Tape White Striped Shirt",
+        "displayRatingReview": true
+      },
+      {
+        "ussid": "1240133459075",
+        "brandname": "Globus",
+        "productId": "MP000000008518735",
+        "productname": "Globus Black Floral Print Shirt",
+        "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008518735_437Wx649H_202101091552571.jpeg",
+        "productCategoryType": "Apparel",
+        "compareProductType": "MSH1116101",
+        "galleryImagesList": [
+          {
+            "galleryImages": [
+              {
+                "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000008518735_437Wx649H_202101091552571.jpeg",
+                "key": "product"
+              }
+            ],
+            "mediaType": "Image"
+          }
+        ],
+        "isOfferExisting": true,
+        "discountPercent": "80",
+        "cumulativeStockLevel": true,
+        "price": {
+          "isRange": false,
+          "sellingPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹399.00",
+            "doubleValue": 399.0,
+            "formattedValueNoDecimal": "₹399",
+            "commaFormattedValue": "₹399.00",
+            "commaFormattedValueNoDecimal": "₹399",
+            "currencySymbol": "₹"
+          },
+          "mrpPrice": {
+            "currencyIso": "INR",
+            "formattedValue": "₹1999.00",
+            "doubleValue": 1999.0,
+            "formattedValueNoDecimal": "₹1999",
+            "commaFormattedValue": "₹1,999.00",
+            "commaFormattedValueNoDecimal": "₹1,999",
+            "currencySymbol": "₹"
+          }
+        },
+        "onlineExclusive": false,
+        "averageRating": 5.0,
+        "totalNoOfReviews": 0,
+        "ratingCount": 6,
+        "webURL": "/globus-black-floral-print-shirt/p-mp000000008518735",
+        "reviewUrl": "/globus-black-floral-print-shirt/p-mp000000008518735/product-reviews",
+        "orgProductCode": "MP000000008518735",
+        "exchangeAvailable": false,
+        "showExchangeTag": false,
+        "exchangeOfferAvailable": false,
+        "productTitle": "Globus Black Floral Print Shirt",
+        "displayRatingReview": true
+      }
+    ],
+    "facetdata": [
+      {
+        "name": "Brand",
+        "key": "brand",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "883 Police",
+            "count": 6,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00645",
+            "selected": false,
+            "value": "MBH11A00645",
+            "webURL": "/men's-clothing-casual-wear-shirts-883-police/c-msh1116101/b-mbh11a00645"
+          },
+          {
+            "name": "AD by Arvind",
+            "count": 249,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11592",
+            "selected": false,
+            "value": "MBH11B11592",
+            "webURL": "/men's-clothing-casual-wear-shirts-ad-by-arvind/c-msh1116101/b-mbh11b11592"
+          },
+          {
+            "name": "ANDAMEN",
+            "count": 30,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13952",
+            "selected": false,
+            "value": "MBH11B13952",
+            "webURL": "/men's-clothing-casual-wear-shirts-andamen/c-msh1116101/b-mbh11b13952"
+          },
+          {
+            "name": "Aeropostale",
+            "count": 312,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10240",
+            "selected": false,
+            "value": "MBH11B10240",
+            "webURL": "/men's-clothing-casual-wear-shirts-aeropostale/c-msh1116101/b-mbh11b10240"
+          },
+          {
+            "name": "Allen Solly",
+            "count": 1054,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00023",
+            "selected": false,
+            "value": "MBH11A00023",
+            "webURL": "/men's-clothing-casual-wear-shirts-allen-solly/c-msh1116101/b-mbh11a00023"
+          },
+          {
+            "name": "American Eagle Outfitters",
+            "count": 147,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11390",
+            "selected": false,
+            "value": "MBH11B11390",
+            "webURL": "/men's-clothing-casual-wear-shirts-american-eagle-outfitters/c-msh1116101/b-mbh11b11390"
+          },
+          {
+            "name": "Antony Morato",
+            "count": 89,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10844",
+            "selected": false,
+            "value": "MBH11B10844",
+            "webURL": "/men's-clothing-casual-wear-shirts-antony-morato/c-msh1116101/b-mbh11b10844"
+          },
+          {
+            "name": "Arrow",
+            "count": 624,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00077",
+            "selected": false,
+            "value": "MBH11A00077",
+            "webURL": "/men's-clothing-casual-wear-shirts-arrow/c-msh1116101/b-mbh11a00077"
+          },
+          {
+            "name": "Arrow Blue Jeans",
+            "count": 9,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10115",
+            "selected": false,
+            "value": "MBH11B10115",
+            "webURL": "/men's-clothing-casual-wear-shirts-arrow-blue-jeans/c-msh1116101/b-mbh11b10115"
+          },
+          {
+            "name": "Arrow New York",
+            "count": 41,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00096",
+            "selected": false,
+            "value": "MBH11A00096",
+            "webURL": "/men's-clothing-casual-wear-shirts-arrow-new-york/c-msh1116101/b-mbh11a00096"
+          },
+          {
+            "name": "Arrow Sport",
+            "count": 463,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00093",
+            "selected": false,
+            "value": "MBH11A00093",
+            "webURL": "/men's-clothing-casual-wear-shirts-arrow-sport/c-msh1116101/b-mbh11a00093"
+          },
+          {
+            "name": "Ascot",
+            "count": 17,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00248",
+            "selected": false,
+            "value": "MBH11A00248",
+            "webURL": "/men's-clothing-casual-wear-shirts-ascot/c-msh1116101/b-mbh11a00248"
+          },
+          {
+            "name": "BHAANE",
+            "count": 14,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13534",
+            "selected": false,
+            "value": "MBH11B13534",
+            "webURL": "/men's-clothing-casual-wear-shirts-bhaane/c-msh1116101/b-mbh11b13534"
+          },
+          {
+            "name": "Basics",
+            "count": 384,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00103",
+            "selected": false,
+            "value": "MBH11A00103",
+            "webURL": "/men's-clothing-casual-wear-shirts-basics/c-msh1116101/b-mbh11a00103"
+          },
+          {
+            "name": "Being Human",
+            "count": 114,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00086",
+            "selected": false,
+            "value": "MBH11A00086",
+            "webURL": "/men's-clothing-casual-wear-shirts-being-human/c-msh1116101/b-mbh11a00086"
+          },
+          {
+            "name": "Ben Sherman",
+            "count": 58,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00172",
+            "selected": false,
+            "value": "MBH11A00172",
+            "webURL": "/men's-clothing-casual-wear-shirts-ben-sherman/c-msh1116101/b-mbh11a00172"
+          },
+          {
+            "name": "Beverly Hills Polo Club",
+            "count": 56,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00654",
+            "selected": false,
+            "value": "MBH11A00654",
+            "webURL": "/men's-clothing-casual-wear-shirts-beverly-hills-polo-club/c-msh1116101/b-mbh11a00654"
+          },
+          {
+            "name": "Bewakoof",
+            "count": 94,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00497",
+            "selected": false,
+            "value": "MBH11A00497",
+            "webURL": "/men's-clothing-casual-wear-shirts-bewakoof/c-msh1116101/b-mbh11a00497"
+          },
+          {
+            "name": "Blackberrys",
+            "count": 848,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00080",
+            "selected": false,
+            "value": "MBH11A00080",
+            "webURL": "/men's-clothing-casual-wear-shirts-blackberrys/c-msh1116101/b-mbh11a00080"
+          },
+          {
+            "name": "Breakbounce",
+            "count": 63,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00330",
+            "selected": false,
+            "value": "MBH11A00330",
+            "webURL": "/men's-clothing-casual-wear-shirts-breakbounce/c-msh1116101/b-mbh11a00330"
+          },
+          {
+            "name": "Bruun & Stengade",
+            "count": 158,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11445",
+            "selected": false,
+            "value": "MBH11B11445",
+            "webURL": "/men's-clothing-casual-wear-shirts-bruun-&-stengade/c-msh1116101/b-mbh11b11445"
+          },
+          {
+            "name": "Burnt Umber",
+            "count": 59,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11811",
+            "selected": false,
+            "value": "MBH11B11811",
+            "webURL": "/men's-clothing-casual-wear-shirts-burnt-umber/c-msh1116101/b-mbh11b11811"
+          },
+          {
+            "name": "CAVALLO by Linen Club",
+            "count": 407,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10390",
+            "selected": false,
+            "value": "MBH11B10390",
+            "webURL": "/men's-clothing-casual-wear-shirts-cavallo-by-linen-club/c-msh1116101/b-mbh11b10390"
+          },
+          {
+            "name": "Callino London",
+            "count": 42,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13947",
+            "selected": false,
+            "value": "MBH11B13947",
+            "webURL": "/men's-clothing-casual-wear-shirts-callino-london/c-msh1116101/b-mbh11b13947"
+          },
+          {
+            "name": "Campus Sutra",
+            "count": 91,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00403",
+            "selected": false,
+            "value": "MBH11A00403",
+            "webURL": "/men's-clothing-casual-wear-shirts-campus-sutra/c-msh1116101/b-mbh11a00403"
+          },
+          {
+            "name": "Cantabil",
+            "count": 188,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13475",
+            "selected": false,
+            "value": "MBH11B13475",
+            "webURL": "/men's-clothing-casual-wear-shirts-cantabil/c-msh1116101/b-mbh11b13475"
+          },
+          {
+            "name": "Cherokee",
+            "count": 350,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11W00040",
+            "selected": false,
+            "value": "MBH11W00040",
+            "webURL": "/men's-clothing-casual-wear-shirts-cherokee/c-msh1116101/b-mbh11w00040"
+          },
+          {
+            "name": "Club York",
+            "count": 26,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10766",
+            "selected": false,
+            "value": "MBH11B10766",
+            "webURL": "/men's-clothing-casual-wear-shirts-club-york/c-msh1116101/b-mbh11b10766"
+          },
+          {
+            "name": "ColorPlus",
+            "count": 873,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00094",
+            "selected": false,
+            "value": "MBH11A00094",
+            "webURL": "/men's-clothing-casual-wear-shirts-colorplus/c-msh1116101/b-mbh11a00094"
+          },
+          {
+            "name": "Colt",
+            "count": 68,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10241",
+            "selected": false,
+            "value": "MBH11B10241",
+            "webURL": "/men's-clothing-casual-wear-shirts-colt/c-msh1116101/b-mbh11b10241"
+          },
+          {
+            "name": "Columbia",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13628",
+            "selected": false,
+            "value": "MBH11B13628",
+            "webURL": "/men's-clothing-casual-wear-shirts-columbia/c-msh1116101/b-mbh11b13628"
+          },
+          {
+            "name": "Cottonworld",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00008",
+            "selected": false,
+            "value": "MBH11A00008",
+            "webURL": "/men's-clothing-casual-wear-shirts-cottonworld/c-msh1116101/b-mbh11a00008"
+          },
+          {
+            "name": "Disrupt",
+            "count": 22,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13682",
+            "selected": false,
+            "value": "MBH11B13682",
+            "webURL": "/men's-clothing-casual-wear-shirts-disrupt/c-msh1116101/b-mbh11b13682"
+          },
+          {
+            "name": "Duke",
+            "count": 16,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00374",
+            "selected": false,
+            "value": "MBH11A00374",
+            "webURL": "/men's-clothing-casual-wear-shirts-duke/c-msh1116101/b-mbh11a00374"
+          },
+          {
+            "name": "ETA",
+            "count": 15,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00175",
+            "selected": false,
+            "value": "MBH11A00175",
+            "webURL": "/men's-clothing-casual-wear-shirts-eta/c-msh1116101/b-mbh11a00175"
+          },
+          {
+            "name": "Ed Hardy",
+            "count": 306,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11E00501",
+            "selected": false,
+            "value": "MBH11E00501",
+            "webURL": "/men's-clothing-casual-wear-shirts-ed-hardy/c-msh1116101/b-mbh11e00501"
+          },
+          {
+            "name": "Ethnix by Raymond",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00651",
+            "selected": false,
+            "value": "MBH11A00651",
+            "webURL": "/men's-clothing-casual-wear-shirts-ethnix-by-raymond/c-msh1116101/b-mbh11a00651"
+          },
+          {
+            "name": "Even",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00413",
+            "selected": false,
+            "value": "MBH11A00413",
+            "webURL": "/men's-clothing-casual-wear-shirts-even/c-msh1116101/b-mbh11a00413"
+          },
+          {
+            "name": "Excalibur",
+            "count": 6,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10242",
+            "selected": false,
+            "value": "MBH11B10242",
+            "webURL": "/men's-clothing-casual-wear-shirts-excalibur/c-msh1116101/b-mbh11b10242"
+          },
+          {
+            "name": "FCUK",
+            "count": 41,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00047",
+            "selected": false,
+            "value": "MBH11A00047",
+            "webURL": "/men's-clothing-casual-wear-shirts-fcuk/c-msh1116101/b-mbh11a00047"
+          },
+          {
+            "name": "Fabindia",
+            "count": 94,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00198",
+            "selected": false,
+            "value": "MBH11A00198",
+            "webURL": "/men's-clothing-casual-wear-shirts-fabindia/c-msh1116101/b-mbh11a00198"
+          },
+          {
+            "name": "Finnoy",
+            "count": 197,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13311",
+            "selected": false,
+            "value": "MBH11B13311",
+            "webURL": "/men's-clothing-casual-wear-shirts-finnoy/c-msh1116101/b-mbh11b13311"
+          },
+          {
+            "name": "Flying Machine",
+            "count": 163,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00201",
+            "selected": false,
+            "value": "MBH11A00201",
+            "webURL": "/men's-clothing-casual-wear-shirts-flying-machine/c-msh1116101/b-mbh11a00201"
+          },
+          {
+            "name": "Forever 21",
+            "count": 116,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00021",
+            "selected": false,
+            "value": "MBH11A00021",
+            "webURL": "/men's-clothing-casual-wear-shirts-forever-21/c-msh1116101/b-mbh11a00021"
+          },
+          {
+            "name": "GANT",
+            "count": 216,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00117",
+            "selected": false,
+            "value": "MBH11A00117",
+            "webURL": "/men's-clothing-casual-wear-shirts-gant/c-msh1116101/b-mbh11a00117"
+          },
+          {
+            "name": "GAP",
+            "count": 12,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11389",
+            "selected": false,
+            "value": "MBH11B11389",
+            "webURL": "/men's-clothing-casual-wear-shirts-gap/c-msh1116101/b-mbh11b11389"
+          },
+          {
+            "name": "Giordano",
+            "count": 15,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11W00086",
+            "selected": false,
+            "value": "MBH11W00086",
+            "webURL": "/men's-clothing-casual-wear-shirts-giordano/c-msh1116101/b-mbh11w00086"
+          },
+          {
+            "name": "Global Republic",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13171",
+            "selected": false,
+            "value": "MBH11B13171",
+            "webURL": "/men's-clothing-casual-wear-shirts-global-republic/c-msh1116101/b-mbh11b13171"
+          },
+          {
+            "name": "Globus",
+            "count": 80,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00348",
+            "selected": false,
+            "value": "MBH11A00348",
+            "webURL": "/men's-clothing-casual-wear-shirts-globus/c-msh1116101/b-mbh11a00348"
+          },
+          {
+            "name": "Greenfibre",
+            "count": 163,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00518",
+            "selected": false,
+            "value": "MBH11A00518",
+            "webURL": "/men's-clothing-casual-wear-shirts-greenfibre/c-msh1116101/b-mbh11a00518"
+          },
+          {
+            "name": "Hancock",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00499",
+            "selected": false,
+            "value": "MBH11A00499",
+            "webURL": "/men's-clothing-casual-wear-shirts-hancock/c-msh1116101/b-mbh11a00499"
+          },
+          {
+            "name": "Hangup",
+            "count": 80,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B12749",
+            "selected": false,
+            "value": "MBH11B12749",
+            "webURL": "/men's-clothing-casual-wear-shirts-hangup/c-msh1116101/b-mbh11b12749"
+          },
+          {
+            "name": "Harsam",
+            "count": 43,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11444",
+            "selected": false,
+            "value": "MBH11B11444",
+            "webURL": "/men's-clothing-casual-wear-shirts-harsam/c-msh1116101/b-mbh11b11444"
+          },
+          {
+            "name": "ID",
+            "count": 44,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00192",
+            "selected": false,
+            "value": "MBH11F00192",
+            "webURL": "/men's-clothing-casual-wear-shirts-id/c-msh1116101/b-mbh11f00192"
+          },
+          {
+            "name": "IZOD",
+            "count": 29,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00343",
+            "selected": false,
+            "value": "MBH11A00343",
+            "webURL": "/men's-clothing-casual-wear-shirts-izod/c-msh1116101/b-mbh11a00343"
+          },
+          {
+            "name": "Indian Terrain",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00097",
+            "selected": false,
+            "value": "MBH11A00097",
+            "webURL": "/men's-clothing-casual-wear-shirts-indian-terrain/c-msh1116101/b-mbh11a00097"
+          },
+          {
+            "name": "JB Studio",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00517",
+            "selected": false,
+            "value": "MBH11A00517",
+            "webURL": "/men's-clothing-casual-wear-shirts-jb-studio/c-msh1116101/b-mbh11a00517"
+          },
+          {
+            "name": "JUNK DE LUXE",
+            "count": 9,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B14409",
+            "selected": false,
+            "value": "MBH11B14409",
+            "webURL": "/men's-clothing-casual-wear-shirts-junk-de-luxe/c-msh1116101/b-mbh11b14409"
+          },
+          {
+            "name": "Jack & Jones",
+            "count": 507,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00082",
+            "selected": false,
+            "value": "MBH11A00082",
+            "webURL": "/men's-clothing-casual-wear-shirts-jack-&-jones/c-msh1116101/b-mbh11a00082"
+          },
+          {
+            "name": "JadeBlue",
+            "count": 137,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00416",
+            "selected": false,
+            "value": "MBH11A00416",
+            "webURL": "/men's-clothing-casual-wear-shirts-jadeblue/c-msh1116101/b-mbh11a00416"
+          },
+          {
+            "name": "John Players",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00081",
+            "selected": false,
+            "value": "MBH11A00081",
+            "webURL": "/men's-clothing-casual-wear-shirts-john-players/c-msh1116101/b-mbh11a00081"
+          },
+          {
+            "name": "Jump USA",
+            "count": 7,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10227",
+            "selected": false,
+            "value": "MBH11B10227",
+            "webURL": "/men's-clothing-casual-wear-shirts-jump-usa/c-msh1116101/b-mbh11b10227"
+          },
+          {
+            "name": "Kenneth Cole",
+            "count": 25,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00052",
+            "selected": false,
+            "value": "MBH11F00052",
+            "webURL": "/men's-clothing-casual-wear-shirts-kenneth-cole/c-msh1116101/b-mbh11f00052"
+          },
+          {
+            "name": "Kuons Avenue",
+            "count": 122,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13824",
+            "selected": false,
+            "value": "MBH11B13824",
+            "webURL": "/men's-clothing-casual-wear-shirts-kuons-avenue/c-msh1116101/b-mbh11b13824"
+          },
+          {
+            "name": "LACOSTE",
+            "count": 37,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11915",
+            "selected": false,
+            "value": "MBH11B11915",
+            "webURL": "/men's-clothing-casual-wear-shirts-lacoste/c-msh1116101/b-mbh11b11915"
+          },
+          {
+            "name": "Lee",
+            "count": 83,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00030",
+            "selected": false,
+            "value": "MBH11A00030",
+            "webURL": "/men's-clothing-casual-wear-shirts-lee/c-msh1116101/b-mbh11a00030"
+          },
+          {
+            "name": "Lee Cooper",
+            "count": 121,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00031",
+            "selected": false,
+            "value": "MBH11A00031",
+            "webURL": "/men's-clothing-casual-wear-shirts-lee-cooper/c-msh1116101/b-mbh11a00031"
+          },
+          {
+            "name": "Levi's",
+            "count": 93,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00340",
+            "selected": false,
+            "value": "MBH11A00340",
+            "webURL": "/men's-clothing-casual-wear-shirts-levi's/c-msh1116101/b-mbh11a00340"
+          },
+          {
+            "name": "Lindbergh",
+            "count": 197,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10845",
+            "selected": false,
+            "value": "MBH11B10845",
+            "webURL": "/men's-clothing-casual-wear-shirts-lindbergh/c-msh1116101/b-mbh11b10845"
+          },
+          {
+            "name": "Linen Club",
+            "count": 28,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10439",
+            "selected": false,
+            "value": "MBH11B10439",
+            "webURL": "/men's-clothing-casual-wear-shirts-linen-club/c-msh1116101/b-mbh11b10439"
+          },
+          {
+            "name": "London Fog",
+            "count": 105,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00170",
+            "selected": false,
+            "value": "MBH11A00170",
+            "webURL": "/men's-clothing-casual-wear-shirts-london-fog/c-msh1116101/b-mbh11a00170"
+          },
+          {
+            "name": "Louis Philippe",
+            "count": 763,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00078",
+            "selected": false,
+            "value": "MBH11A00078",
+            "webURL": "/men's-clothing-casual-wear-shirts-louis-philippe/c-msh1116101/b-mbh11a00078"
+          },
+          {
+            "name": "Louis Philippe Jeans",
+            "count": 46,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10859",
+            "selected": false,
+            "value": "MBH11B10859",
+            "webURL": "/men's-clothing-casual-wear-shirts-louis-philippe-jeans/c-msh1116101/b-mbh11b10859"
+          },
+          {
+            "name": "Louis Philippe Sport",
+            "count": 142,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10860",
+            "selected": false,
+            "value": "MBH11B10860",
+            "webURL": "/men's-clothing-casual-wear-shirts-louis-philippe-sport/c-msh1116101/b-mbh11b10860"
+          },
+          {
+            "name": "Marca Disati",
+            "count": 54,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11439",
+            "selected": false,
+            "value": "MBH11B11439",
+            "webURL": "/men's-clothing-casual-wear-shirts-marca-disati/c-msh1116101/b-mbh11b11439"
+          },
+          {
+            "name": "Matinique",
+            "count": 88,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11446",
+            "selected": false,
+            "value": "MBH11B11446",
+            "webURL": "/men's-clothing-casual-wear-shirts-matinique/c-msh1116101/b-mbh11b11446"
+          },
+          {
+            "name": "Monte Carlo",
+            "count": 219,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00230",
+            "selected": false,
+            "value": "MBH11A00230",
+            "webURL": "/men's-clothing-casual-wear-shirts-monte-carlo/c-msh1116101/b-mbh11a00230"
+          },
+          {
+            "name": "Mufti",
+            "count": 1098,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00332",
+            "selected": false,
+            "value": "MBH11A00332",
+            "webURL": "/men's-clothing-casual-wear-shirts-mufti/c-msh1116101/b-mbh11a00332"
+          },
+          {
+            "name": "Newport",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00614",
+            "selected": false,
+            "value": "MBH11A00614",
+            "webURL": "/men's-clothing-casual-wear-shirts-newport/c-msh1116101/b-mbh11a00614"
+          },
+          {
+            "name": "Next Look",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10163",
+            "selected": false,
+            "value": "MBH11B10163",
+            "webURL": "/men's-clothing-casual-wear-shirts-next-look/c-msh1116101/b-mbh11b10163"
+          },
+          {
+            "name": "Nuon Men",
+            "count": 19,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00178",
+            "selected": false,
+            "value": "MBH11A00178",
+            "webURL": "/men's-clothing-casual-wear-shirts-nuon-men/c-msh1116101/b-mbh11a00178"
+          },
+          {
+            "name": "OFF LIMITS",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11483",
+            "selected": false,
+            "value": "MBH11B11483",
+            "webURL": "/men's-clothing-casual-wear-shirts-off-limits/c-msh1116101/b-mbh11b11483"
+          },
+          {
+            "name": "Okhai",
+            "count": 6,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00313",
+            "selected": false,
+            "value": "MBH11A00313",
+            "webURL": "/men's-clothing-casual-wear-shirts-okhai/c-msh1116101/b-mbh11a00313"
+          },
+          {
+            "name": "Oxemberg",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11920",
+            "selected": false,
+            "value": "MBH11B11920",
+            "webURL": "/men's-clothing-casual-wear-shirts-oxemberg/c-msh1116101/b-mbh11b11920"
+          },
+          {
+            "name": "Park Avenue",
+            "count": 161,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00074",
+            "selected": false,
+            "value": "MBH11A00074",
+            "webURL": "/men's-clothing-casual-wear-shirts-park-avenue/c-msh1116101/b-mbh11a00074"
+          },
+          {
+            "name": "Parx",
+            "count": 836,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00327",
+            "selected": false,
+            "value": "MBH11A00327",
+            "webURL": "/men's-clothing-casual-wear-shirts-parx/c-msh1116101/b-mbh11a00327"
+          },
+          {
+            "name": "Pepe Jeans",
+            "count": 580,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00020",
+            "selected": false,
+            "value": "MBH11A00020",
+            "webURL": "/men's-clothing-casual-wear-shirts-pepe-jeans/c-msh1116101/b-mbh11a00020"
+          },
+          {
+            "name": "Peter England",
+            "count": 822,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00208",
+            "selected": false,
+            "value": "MBH11A00208",
+            "webURL": "/men's-clothing-casual-wear-shirts-peter-england/c-msh1116101/b-mbh11a00208"
+          },
+          {
+            "name": "PlusS",
+            "count": 92,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10367",
+            "selected": false,
+            "value": "MBH11B10367",
+            "webURL": "/men's-clothing-casual-wear-shirts-pluss/c-msh1116101/b-mbh11b10367"
+          },
+          {
+            "name": "Puma",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00168",
+            "selected": false,
+            "value": "MBH11A00168",
+            "webURL": "/men's-clothing-casual-wear-shirts-puma/c-msh1116101/b-mbh11a00168"
+          },
+          {
+            "name": "Rare Rabbit",
+            "count": 333,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10138",
+            "selected": false,
+            "value": "MBH11B10138",
+            "webURL": "/men's-clothing-casual-wear-shirts-rare-rabbit/c-msh1116101/b-mbh11b10138"
+          },
+          {
+            "name": "Raymond",
+            "count": 106,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11H00010",
+            "selected": false,
+            "value": "MBH11H00010",
+            "webURL": "/men's-clothing-casual-wear-shirts-raymond/c-msh1116101/b-mbh11h00010"
+          },
+          {
+            "name": "Red Chief",
+            "count": 144,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00069",
+            "selected": false,
+            "value": "MBH11F00069",
+            "webURL": "/men's-clothing-casual-wear-shirts-red-chief/c-msh1116101/b-mbh11f00069"
+          },
+          {
+            "name": "Red Tape",
+            "count": 138,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00070",
+            "selected": false,
+            "value": "MBH11F00070",
+            "webURL": "/men's-clothing-casual-wear-shirts-red-tape/c-msh1116101/b-mbh11f00070"
+          },
+          {
+            "name": "Reebok Classics",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B12026",
+            "selected": false,
+            "value": "MBH11B12026",
+            "webURL": "/men's-clothing-casual-wear-shirts-reebok-classics/c-msh1116101/b-mbh11b12026"
+          },
+          {
+            "name": "Rigo",
+            "count": 7,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00458",
+            "selected": false,
+            "value": "MBH11A00458",
+            "webURL": "/men's-clothing-casual-wear-shirts-rigo/c-msh1116101/b-mbh11a00458"
+          },
+          {
+            "name": "Roots By Ruggers",
+            "count": 77,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10464",
+            "selected": false,
+            "value": "MBH11B10464",
+            "webURL": "/men's-clothing-casual-wear-shirts-roots-by-ruggers/c-msh1116101/b-mbh11b10464"
+          },
+          {
+            "name": "Royal Enfield",
+            "count": 78,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B12357",
+            "selected": false,
+            "value": "MBH11B12357",
+            "webURL": "/men's-clothing-casual-wear-shirts-royal-enfield/c-msh1116101/b-mbh11b12357"
+          },
+          {
+            "name": "Ruf & Tuf",
+            "count": 20,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10793",
+            "selected": false,
+            "value": "MBH11B10793",
+            "webURL": "/men's-clothing-casual-wear-shirts-ruf-&-tuf/c-msh1116101/b-mbh11b10793"
+          },
+          {
+            "name": "Ruggers",
+            "count": 464,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10243",
+            "selected": false,
+            "value": "MBH11B10243",
+            "webURL": "/men's-clothing-casual-wear-shirts-ruggers/c-msh1116101/b-mbh11b10243"
+          },
+          {
+            "name": "SOLEMIO",
+            "count": 4,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10505",
+            "selected": false,
+            "value": "MBH11B10505",
+            "webURL": "/men's-clothing-casual-wear-shirts-solemio/c-msh1116101/b-mbh11b10505"
+          },
+          {
+            "name": "Sojanya",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00647",
+            "selected": false,
+            "value": "MBH11A00647",
+            "webURL": "/men's-clothing-casual-wear-shirts-sojanya/c-msh1116101/b-mbh11a00647"
+          },
+          {
+            "name": "Southbay",
+            "count": 35,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B14196",
+            "selected": false,
+            "value": "MBH11B14196",
+            "webURL": "/men's-clothing-casual-wear-shirts-southbay/c-msh1116101/b-mbh11b14196"
+          },
+          {
+            "name": "Spykar",
+            "count": 1289,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00100",
+            "selected": false,
+            "value": "MBH11A00100",
+            "webURL": "/men's-clothing-casual-wear-shirts-spykar/c-msh1116101/b-mbh11a00100"
+          },
+          {
+            "name": "Status Quo",
+            "count": 42,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00457",
+            "selected": false,
+            "value": "MBH11A00457",
+            "webURL": "/men's-clothing-casual-wear-shirts-status-quo/c-msh1116101/b-mbh11a00457"
+          },
+          {
+            "name": "The Bear House",
+            "count": 143,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10247",
+            "selected": false,
+            "value": "MBH11B10247",
+            "webURL": "/men's-clothing-casual-wear-shirts-the-bear-house/c-msh1116101/b-mbh11b10247"
+          },
+          {
+            "name": "Trendyol",
+            "count": 53,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B14057",
+            "selected": false,
+            "value": "MBH11B14057",
+            "webURL": "/men's-clothing-casual-wear-shirts-trendyol/c-msh1116101/b-mbh11b14057"
+          },
+          {
+            "name": "True Blue",
+            "count": 294,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10588",
+            "selected": false,
+            "value": "MBH11B10588",
+            "webURL": "/men's-clothing-casual-wear-shirts-true-blue/c-msh1116101/b-mbh11b10588"
+          },
+          {
+            "name": "Turtle",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00325",
+            "selected": false,
+            "value": "MBH11A00325",
+            "webURL": "/men's-clothing-casual-wear-shirts-turtle/c-msh1116101/b-mbh11a00325"
+          },
+          {
+            "name": "U.S. Polo Assn.",
+            "count": 981,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11W00213",
+            "selected": false,
+            "value": "MBH11W00213",
+            "webURL": "/men's-clothing-casual-wear-shirts-u.s.-polo-assn./c-msh1116101/b-mbh11w00213"
+          },
+          {
+            "name": "Urban Scottish",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00579",
+            "selected": false,
+            "value": "MBH11A00579",
+            "webURL": "/men's-clothing-casual-wear-shirts-urban-scottish/c-msh1116101/b-mbh11a00579"
+          },
+          {
+            "name": "V Dot",
+            "count": 27,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00098",
+            "selected": false,
+            "value": "MBH11A00098",
+            "webURL": "/men's-clothing-casual-wear-shirts-v-dot/c-msh1116101/b-mbh11a00098"
+          },
+          {
+            "name": "VASTRAMAY",
+            "count": 26,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B13869",
+            "selected": false,
+            "value": "MBH11B13869",
+            "webURL": "/men's-clothing-casual-wear-shirts-vastramay/c-msh1116101/b-mbh11b13869"
+          },
+          {
+            "name": "Van Heusen",
+            "count": 569,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00024",
+            "selected": false,
+            "value": "MBH11A00024",
+            "webURL": "/men's-clothing-casual-wear-shirts-van-heusen/c-msh1116101/b-mbh11a00024"
+          },
+          {
+            "name": "WES Casuals",
+            "count": 45,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10748",
+            "selected": false,
+            "value": "MBH11B10748",
+            "webURL": "/men's-clothing-casual-wear-shirts-wes-casuals/c-msh1116101/b-mbh11b10748"
+          },
+          {
+            "name": "WES Formals",
+            "count": 4,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B10749",
+            "selected": false,
+            "value": "MBH11B10749",
+            "webURL": "/men's-clothing-casual-wear-shirts-wes-formals/c-msh1116101/b-mbh11b10749"
+          },
+          {
+            "name": "Westsport",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00192",
+            "selected": false,
+            "value": "MBH11A00192",
+            "webURL": "/men's-clothing-casual-wear-shirts-westsport/c-msh1116101/b-mbh11a00192"
+          },
+          {
+            "name": "Wildcraft",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00106",
+            "selected": false,
+            "value": "MBH11F00106",
+            "webURL": "/men's-clothing-casual-wear-shirts-wildcraft/c-msh1116101/b-mbh11f00106"
+          },
+          {
+            "name": "Woodland",
+            "count": 43,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00086",
+            "selected": false,
+            "value": "MBH11F00086",
+            "webURL": "/men's-clothing-casual-wear-shirts-woodland/c-msh1116101/b-mbh11f00086"
+          },
+          {
+            "name": "Woods",
+            "count": 18,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11F00255",
+            "selected": false,
+            "value": "MBH11F00255",
+            "webURL": "/men's-clothing-casual-wear-shirts-woods/c-msh1116101/b-mbh11f00255"
+          },
+          {
+            "name": "Wrangler",
+            "count": 78,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00105",
+            "selected": false,
+            "value": "MBH11A00105",
+            "webURL": "/men's-clothing-casual-wear-shirts-wrangler/c-msh1116101/b-mbh11a00105"
+          },
+          {
+            "name": "Wyre",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B12525",
+            "selected": false,
+            "value": "MBH11B12525",
+            "webURL": "/men's-clothing-casual-wear-shirts-wyre/c-msh1116101/b-mbh11b12525"
+          },
+          {
+            "name": "YWC",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11B11070",
+            "selected": false,
+            "value": "MBH11B11070",
+            "webURL": "/men's-clothing-casual-wear-shirts-ywc/c-msh1116101/b-mbh11b11070"
+          },
+          {
+            "name": "celio*",
+            "count": 214,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00195",
+            "selected": false,
+            "value": "MBH11A00195",
+            "webURL": "/men's-clothing-casual-wear-shirts-celio*/c-msh1116101/b-mbh11a00195"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 5000
+      },
+      {
+        "name": "Price",
+        "key": "price",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "₹0-₹500",
+            "count": 286,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B90-%25E2%2582%25B9500",
+            "selected": false,
+            "value": "₹0-₹500"
+          },
+          {
+            "name": "₹501-₹1,000",
+            "count": 6976,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B9501-%25E2%2582%25B91%252C000",
+            "selected": false,
+            "value": "₹501-₹1,000"
+          },
+          {
+            "name": "₹1,001-₹1,500",
+            "count": 7859,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B91%252C001-%25E2%2582%25B91%252C500",
+            "selected": false,
+            "value": "₹1,001-₹1,500"
+          },
+          {
+            "name": "₹1,501-₹2,000",
+            "count": 2976,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B91%252C501-%25E2%2582%25B92%252C000",
+            "selected": false,
+            "value": "₹1,501-₹2,000"
+          },
+          {
+            "name": "₹2,001-₹2,500",
+            "count": 1097,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B92%252C001-%25E2%2582%25B92%252C500",
+            "selected": false,
+            "value": "₹2,001-₹2,500"
+          },
+          {
+            "name": "₹2,501-₹3,000",
+            "count": 558,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B92%252C501-%25E2%2582%25B93%252C000",
+            "selected": false,
+            "value": "₹2,501-₹3,000"
+          },
+          {
+            "name": "₹3,001 and Above",
+            "count": 555,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Aprice%3A%25E2%2582%25B93%252C001%2Band%2BAbove",
+            "selected": false,
+            "value": "₹3,001 and Above"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "rangeApplied": false,
+        "priority": 4000
+      },
+      {
+        "name": "Colour",
+        "key": "colour",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Beige",
+            "count": 729,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ABeige_F5F5DC",
+            "selected": false,
+            "value": "Beige_F5F5DC",
+            "hexColor": "#F5F5DC",
+            "webURL": "/men's-clothing-casual-wear-shirts/beige~color/c-msh1116101"
+          },
+          {
+            "name": "Black",
+            "count": 1126,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ABlack_000000",
+            "selected": false,
+            "value": "Black_000000",
+            "hexColor": "#000000",
+            "webURL": "/men's-clothing-casual-wear-shirts/black~color/c-msh1116101"
+          },
+          {
+            "name": "Blue",
+            "count": 5451,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ABlue_0000FF",
+            "selected": false,
+            "value": "Blue_0000FF",
+            "hexColor": "#0000FF",
+            "webURL": "/men's-clothing-casual-wear-shirts/blue~color/c-msh1116101"
+          },
+          {
+            "name": "Brown",
+            "count": 637,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ABrown_A52A2A",
+            "selected": false,
+            "value": "Brown_A52A2A",
+            "hexColor": "#A52A2A",
+            "webURL": "/men's-clothing-casual-wear-shirts/brown~color/c-msh1116101"
+          },
+          {
+            "name": "Colorfamilyapparelcream",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AColorfamilyapparelcream_colorfamilyapparelcream",
+            "selected": false,
+            "value": "Colorfamilyapparelcream_colorfamilyapparelcream",
+            "hexColor": "#colorfamilyapparelcream",
+            "webURL": "/men's-clothing-casual-wear-shirts/colorfamilyapparelcream~color/c-msh1116101"
+          },
+          {
+            "name": "Coral",
+            "count": 47,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ACoral_FF7F50",
+            "selected": false,
+            "value": "Coral_FF7F50",
+            "hexColor": "#FF7F50",
+            "webURL": "/men's-clothing-casual-wear-shirts/coral~color/c-msh1116101"
+          },
+          {
+            "name": "Gold",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AGold_FFD700",
+            "selected": false,
+            "value": "Gold_FFD700",
+            "hexColor": "#FFD700",
+            "webURL": "/men's-clothing-casual-wear-shirts/gold~color/c-msh1116101"
+          },
+          {
+            "name": "Green",
+            "count": 1592,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AGreen_008000",
+            "selected": false,
+            "value": "Green_008000",
+            "hexColor": "#008000",
+            "webURL": "/men's-clothing-casual-wear-shirts/green~color/c-msh1116101"
+          },
+          {
+            "name": "Grey",
+            "count": 988,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AGrey_808080",
+            "selected": false,
+            "value": "Grey_808080",
+            "hexColor": "#808080",
+            "webURL": "/men's-clothing-casual-wear-shirts/grey~color/c-msh1116101"
+          },
+          {
+            "name": "Khaki",
+            "count": 134,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AKhaki_F0E68C",
+            "selected": false,
+            "value": "Khaki_F0E68C",
+            "hexColor": "#F0E68C",
+            "webURL": "/men's-clothing-casual-wear-shirts/khaki~color/c-msh1116101"
+          },
+          {
+            "name": "Maroon",
+            "count": 573,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AMaroon_800000",
+            "selected": false,
+            "value": "Maroon_800000",
+            "hexColor": "#800000",
+            "webURL": "/men's-clothing-casual-wear-shirts/maroon~color/c-msh1116101"
+          },
+          {
+            "name": "Multicolor",
+            "count": 533,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AMulti_multi",
+            "selected": false,
+            "value": "Multi_multi",
+            "hexColor": "#multi",
+            "webURL": "/men's-clothing-casual-wear-shirts/multicolor~color/c-msh1116101"
+          },
+          {
+            "name": "Navy",
+            "count": 2141,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ANavy_000080",
+            "selected": false,
+            "value": "Navy_000080",
+            "hexColor": "#000080",
+            "webURL": "/men's-clothing-casual-wear-shirts/navy~color/c-msh1116101"
+          },
+          {
+            "name": "Orange",
+            "count": 464,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AOrange_FFA500",
+            "selected": false,
+            "value": "Orange_FFA500",
+            "hexColor": "#FFA500",
+            "webURL": "/men's-clothing-casual-wear-shirts/orange~color/c-msh1116101"
+          },
+          {
+            "name": "Peach",
+            "count": 110,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3APeach_ffcba4",
+            "selected": false,
+            "value": "Peach_ffcba4",
+            "hexColor": "#ffcba4",
+            "webURL": "/men's-clothing-casual-wear-shirts/peach~color/c-msh1116101"
+          },
+          {
+            "name": "Pink",
+            "count": 681,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3APink_FFC0CB",
+            "selected": false,
+            "value": "Pink_FFC0CB",
+            "hexColor": "#FFC0CB",
+            "webURL": "/men's-clothing-casual-wear-shirts/pink~color/c-msh1116101"
+          },
+          {
+            "name": "Purple",
+            "count": 262,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3APurple_800080",
+            "selected": false,
+            "value": "Purple_800080",
+            "hexColor": "#800080",
+            "webURL": "/men's-clothing-casual-wear-shirts/purple~color/c-msh1116101"
+          },
+          {
+            "name": "Red",
+            "count": 1088,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ARed_FF0000",
+            "selected": false,
+            "value": "Red_FF0000",
+            "hexColor": "#FF0000",
+            "webURL": "/men's-clothing-casual-wear-shirts/red~color/c-msh1116101"
+          },
+          {
+            "name": "Tan",
+            "count": 11,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ATan_d2691e",
+            "selected": false,
+            "value": "Tan_d2691e",
+            "hexColor": "#d2691e",
+            "webURL": "/men's-clothing-casual-wear-shirts/tan~color/c-msh1116101"
+          },
+          {
+            "name": "Turquoise",
+            "count": 59,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3ATurquoise_40E0D0",
+            "selected": false,
+            "value": "Turquoise_40E0D0",
+            "hexColor": "#40E0D0",
+            "webURL": "/men's-clothing-casual-wear-shirts/turquoise~color/c-msh1116101"
+          },
+          {
+            "name": "White",
+            "count": 2651,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AWhite_FFFFFF",
+            "selected": false,
+            "value": "White_FFFFFF",
+            "hexColor": "#FFFFFF",
+            "webURL": "/men's-clothing-casual-wear-shirts/white~color/c-msh1116101"
+          },
+          {
+            "name": "Yellow",
+            "count": 927,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acolour%3AYellow_FFFF00",
+            "selected": false,
+            "value": "Yellow_FFFF00",
+            "hexColor": "#FFFF00",
+            "webURL": "/men's-clothing-casual-wear-shirts/yellow~color/c-msh1116101"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 2500
+      },
+      {
+        "name": "Discount",
+        "key": "discountFlag",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Upto 10%",
+            "count": 498,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountFlag%3AUpto%2B10%2525",
+            "selected": false,
+            "value": "Upto 10%"
+          },
+          {
+            "name": "10% - 30%",
+            "count": 2219,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountFlag%3A10%2525%2B-%2B30%2525",
+            "selected": false,
+            "value": "10% - 30%"
+          },
+          {
+            "name": "30% - 50%",
+            "count": 7335,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountFlag%3A30%2525%2B-%2B50%2525",
+            "selected": false,
+            "value": "30% - 50%"
+          },
+          {
+            "name": "50% - 70%",
+            "count": 8359,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountFlag%3A50%2525%2B-%2B70%2525",
+            "selected": false,
+            "value": "50% - 70%"
+          },
+          {
+            "name": "70% and more",
+            "count": 463,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountFlag%3A70%2525%2Band%2Bmore",
+            "selected": false,
+            "value": "70% and more"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 2500
+      },
+      {
+        "name": "Size",
+        "key": "size",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "XS",
+            "count": 286,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AXS",
+            "selected": false,
+            "value": "XS"
+          },
+          {
+            "name": "S",
+            "count": 2412,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AS",
+            "selected": false,
+            "value": "S"
+          },
+          {
+            "name": "M",
+            "count": 2473,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AM",
+            "selected": false,
+            "value": "M"
+          },
+          {
+            "name": "L",
+            "count": 2622,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AL",
+            "selected": false,
+            "value": "L"
+          },
+          {
+            "name": "XL",
+            "count": 2164,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AXL",
+            "selected": false,
+            "value": "XL"
+          },
+          {
+            "name": "XXL",
+            "count": 1792,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3AXXL",
+            "selected": false,
+            "value": "XXL"
+          },
+          {
+            "name": "3XL",
+            "count": 369,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A3XL",
+            "selected": false,
+            "value": "3XL"
+          },
+          {
+            "name": "4XL",
+            "count": 91,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A4XL",
+            "selected": false,
+            "value": "4XL"
+          },
+          {
+            "name": "5XL",
+            "count": 33,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A5XL",
+            "selected": false,
+            "value": "5XL"
+          },
+          {
+            "name": "6XL",
+            "count": 7,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A6XL",
+            "selected": false,
+            "value": "6XL"
+          },
+          {
+            "name": "7XL",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A7XL",
+            "selected": false,
+            "value": "7XL"
+          },
+          {
+            "name": "8XL",
+            "count": 9,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A8XL",
+            "selected": false,
+            "value": "8XL"
+          },
+          {
+            "name": "30",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A30",
+            "selected": false,
+            "value": "30"
+          },
+          {
+            "name": "32",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A32",
+            "selected": false,
+            "value": "32"
+          },
+          {
+            "name": "34",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A34",
+            "selected": false,
+            "value": "34"
+          },
+          {
+            "name": "35",
+            "count": 4,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A35",
+            "selected": false,
+            "value": "35"
+          },
+          {
+            "name": "36",
+            "count": 16,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A36",
+            "selected": false,
+            "value": "36"
+          },
+          {
+            "name": "38",
+            "count": 861,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A38",
+            "selected": false,
+            "value": "38"
+          },
+          {
+            "name": "39",
+            "count": 1732,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A39",
+            "selected": false,
+            "value": "39"
+          },
+          {
+            "name": "40",
+            "count": 2140,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A40",
+            "selected": false,
+            "value": "40"
+          },
+          {
+            "name": "41",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A41",
+            "selected": false,
+            "value": "41"
+          },
+          {
+            "name": "42",
+            "count": 1413,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A42",
+            "selected": false,
+            "value": "42"
+          },
+          {
+            "name": "43",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A43",
+            "selected": false,
+            "value": "43"
+          },
+          {
+            "name": "44",
+            "count": 1531,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A44",
+            "selected": false,
+            "value": "44"
+          },
+          {
+            "name": "46",
+            "count": 269,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A46",
+            "selected": false,
+            "value": "46"
+          },
+          {
+            "name": "48",
+            "count": 23,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A48",
+            "selected": false,
+            "value": "48"
+          },
+          {
+            "name": "50",
+            "count": 10,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A50",
+            "selected": false,
+            "value": "50"
+          },
+          {
+            "name": "52",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A52",
+            "selected": false,
+            "value": "52"
+          },
+          {
+            "name": "54",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A54",
+            "selected": false,
+            "value": "54"
+          },
+          {
+            "name": "58",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asize%3A58",
+            "selected": false,
+            "value": "58"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 2500
+      },
+      {
+        "name": "Collar",
+        "key": "collar-classification",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Shirt collar",
+            "count": 16580,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AShirt%2Bcollar",
+            "selected": false,
+            "value": "Shirt collar"
+          },
+          {
+            "name": "Button Down collar",
+            "count": 2095,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AButton%2BDown%2Bcollar",
+            "selected": false,
+            "value": "Button Down collar"
+          },
+          {
+            "name": "Mandarin collar",
+            "count": 753,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AMandarin%2Bcollar",
+            "selected": false,
+            "value": "Mandarin collar"
+          },
+          {
+            "name": "Other",
+            "count": 240,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AOther",
+            "selected": false,
+            "value": "Other"
+          },
+          {
+            "name": "Cutaway Collar",
+            "count": 224,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3ACutaway%2BCollar",
+            "selected": false,
+            "value": "Cutaway Collar"
+          },
+          {
+            "name": "Band collar",
+            "count": 173,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3ABand%2Bcollar",
+            "selected": false,
+            "value": "Band collar"
+          },
+          {
+            "name": "Hood",
+            "count": 83,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AHood",
+            "selected": false,
+            "value": "Hood"
+          },
+          {
+            "name": "Notched lapel",
+            "count": 38,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3ANotched%2Blapel",
+            "selected": false,
+            "value": "Notched lapel"
+          },
+          {
+            "name": "Round neck",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3ARound%2Bneck",
+            "selected": false,
+            "value": "Round neck"
+          },
+          {
+            "name": "Polo Collar",
+            "count": 6,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3APolo%2BCollar",
+            "selected": false,
+            "value": "Polo Collar"
+          },
+          {
+            "name": "V neck",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AV%2Bneck",
+            "selected": false,
+            "value": "V neck"
+          },
+          {
+            "name": "Bomber Neck",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3ABomber%2BNeck",
+            "selected": false,
+            "value": "Bomber Neck"
+          },
+          {
+            "name": "Henley",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AHenley",
+            "selected": false,
+            "value": "Henley"
+          },
+          {
+            "name": "Mock collar",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Acollar-classification%3AMock%2Bcollar",
+            "selected": false,
+            "value": "Mock collar"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 1000
+      },
+      {
+        "name": "Fabric Family",
+        "key": "Fabric-family-kidswear",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Cotton",
+            "count": 16458,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton",
+            "selected": false,
+            "value": "Cotton"
+          },
+          {
+            "name": "Linen",
+            "count": 891,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ALinen",
+            "selected": false,
+            "value": "Linen"
+          },
+          {
+            "name": "Cotton Linen",
+            "count": 687,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2BLinen",
+            "selected": false,
+            "value": "Cotton Linen"
+          },
+          {
+            "name": "Blend",
+            "count": 665,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ABlend",
+            "selected": false,
+            "value": "Blend"
+          },
+          {
+            "name": "Blended",
+            "count": 445,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ABlended",
+            "selected": false,
+            "value": "Blended"
+          },
+          {
+            "name": "Cotton Blend",
+            "count": 267,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2BBlend",
+            "selected": false,
+            "value": "Cotton Blend"
+          },
+          {
+            "name": "Viscose",
+            "count": 192,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3AViscose",
+            "selected": false,
+            "value": "Viscose"
+          },
+          {
+            "name": "Polycotton",
+            "count": 159,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3APolycotton",
+            "selected": false,
+            "value": "Polycotton"
+          },
+          {
+            "name": "Cotton Polyblend",
+            "count": 84,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2BPolyblend",
+            "selected": false,
+            "value": "Cotton Polyblend"
+          },
+          {
+            "name": "Linen Blend",
+            "count": 72,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ALinen%2BBlend",
+            "selected": false,
+            "value": "Linen Blend"
+          },
+          {
+            "name": "Denim",
+            "count": 51,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ADenim",
+            "selected": false,
+            "value": "Denim"
+          },
+          {
+            "name": "Polyester",
+            "count": 35,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3APolyester",
+            "selected": false,
+            "value": "Polyester"
+          },
+          {
+            "name": "Cotton Lycra",
+            "count": 33,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2BLycra",
+            "selected": false,
+            "value": "Cotton Lycra"
+          },
+          {
+            "name": "Polyster",
+            "count": 28,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3APolyster",
+            "selected": false,
+            "value": "Polyster"
+          },
+          {
+            "name": "Silk Blend",
+            "count": 22,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ASilk%2BBlend",
+            "selected": false,
+            "value": "Silk Blend"
+          },
+          {
+            "name": "Modal",
+            "count": 21,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3AModal",
+            "selected": false,
+            "value": "Modal"
+          },
+          {
+            "name": "Rayon",
+            "count": 21,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ARayon",
+            "selected": false,
+            "value": "Rayon"
+          },
+          {
+            "name": "Lyocell",
+            "count": 17,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ALyocell",
+            "selected": false,
+            "value": "Lyocell"
+          },
+          {
+            "name": "Others",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3AOthers",
+            "selected": false,
+            "value": "Others"
+          },
+          {
+            "name": "Satin",
+            "count": 12,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ASatin",
+            "selected": false,
+            "value": "Satin"
+          },
+          {
+            "name": "Nylon",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ANylon",
+            "selected": false,
+            "value": "Nylon"
+          },
+          {
+            "name": "Modal Cotton",
+            "count": 7,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3AModal%2BCotton",
+            "selected": false,
+            "value": "Modal Cotton"
+          },
+          {
+            "name": "Twill",
+            "count": 6,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ATwill",
+            "selected": false,
+            "value": "Twill"
+          },
+          {
+            "name": "Synthetic",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ASynthetic",
+            "selected": false,
+            "value": "Synthetic"
+          },
+          {
+            "name": "Cotton Tencel",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2BTencel",
+            "selected": false,
+            "value": "Cotton Tencel"
+          },
+          {
+            "name": "Corduroy",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACorduroy",
+            "selected": false,
+            "value": "Corduroy"
+          },
+          {
+            "name": "Polyamide",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3APolyamide",
+            "selected": false,
+            "value": "Polyamide"
+          },
+          {
+            "name": "Cotton and Polyester",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ACotton%2Band%2BPolyester",
+            "selected": false,
+            "value": "Cotton and Polyester"
+          },
+          {
+            "name": "Pure Cotton",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3APure%2BCotton",
+            "selected": false,
+            "value": "Pure Cotton"
+          },
+          {
+            "name": "Silk",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AFabric-family-kidswear%3ASilk",
+            "selected": false,
+            "value": "Silk"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 1000
+      },
+      {
+        "name": "Fit",
+        "key": "fit-classification",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Slim fit",
+            "count": 11998,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASlim%2Bfit",
+            "selected": false,
+            "value": "Slim fit"
+          },
+          {
+            "name": "Regular fit",
+            "count": 7269,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ARegular%2Bfit",
+            "selected": false,
+            "value": "Regular fit"
+          },
+          {
+            "name": "Tailored fit",
+            "count": 462,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ATailored%2Bfit",
+            "selected": false,
+            "value": "Tailored fit"
+          },
+          {
+            "name": "Skinny Fit",
+            "count": 112,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASkinny%2BFit",
+            "selected": false,
+            "value": "Skinny Fit"
+          },
+          {
+            "name": "Comfort fit",
+            "count": 101,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AComfort%2Bfit",
+            "selected": false,
+            "value": "Comfort fit"
+          },
+          {
+            "name": "Contemporary fit",
+            "count": 72,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AContemporary%2Bfit",
+            "selected": false,
+            "value": "Contemporary fit"
+          },
+          {
+            "name": "Relaxed fit",
+            "count": 70,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ARelaxed%2Bfit",
+            "selected": false,
+            "value": "Relaxed fit"
+          },
+          {
+            "name": "Straight fit",
+            "count": 43,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AStraight%2Bfit",
+            "selected": false,
+            "value": "Straight fit"
+          },
+          {
+            "name": "Super slim fit",
+            "count": 37,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASuper%2Bslim%2Bfit",
+            "selected": false,
+            "value": "Super slim fit"
+          },
+          {
+            "name": "Boxy fit",
+            "count": 12,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ABoxy%2Bfit",
+            "selected": false,
+            "value": "Boxy fit"
+          },
+          {
+            "name": "Resort Fit",
+            "count": 10,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AResort%2BFit",
+            "selected": false,
+            "value": "Resort Fit"
+          },
+          {
+            "name": "Classic fit",
+            "count": 9,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AClassic%2Bfit",
+            "selected": false,
+            "value": "Classic fit"
+          },
+          {
+            "name": "Smart fit",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASmart%2Bfit",
+            "selected": false,
+            "value": "Smart fit"
+          },
+          {
+            "name": "Loose fit",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ALoose%2Bfit",
+            "selected": false,
+            "value": "Loose fit"
+          },
+          {
+            "name": "Snug fit",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASnug%2Bfit",
+            "selected": false,
+            "value": "Snug fit"
+          },
+          {
+            "name": "Urban slim fit",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3AUrban%2Bslim%2Bfit",
+            "selected": false,
+            "value": "Urban slim fit"
+          },
+          {
+            "name": "Super Fitted",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Afit-classification%3ASuper%2BFitted",
+            "selected": false,
+            "value": "Super Fitted"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 1000
+      },
+      {
+        "name": "Pattern",
+        "key": "pattern-classification",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Checks",
+            "count": 6614,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AChecks",
+            "selected": false,
+            "value": "Checks"
+          },
+          {
+            "name": "Print",
+            "count": 5163,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3APrint",
+            "selected": false,
+            "value": "Print"
+          },
+          {
+            "name": "Solid",
+            "count": 4544,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ASolid",
+            "selected": false,
+            "value": "Solid"
+          },
+          {
+            "name": "Stripes",
+            "count": 1928,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AStripes",
+            "selected": false,
+            "value": "Stripes"
+          },
+          {
+            "name": "Self",
+            "count": 711,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ASelf",
+            "selected": false,
+            "value": "Self"
+          },
+          {
+            "name": "Floral",
+            "count": 406,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AFloral",
+            "selected": false,
+            "value": "Floral"
+          },
+          {
+            "name": "Plaid",
+            "count": 163,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3APlaid",
+            "selected": false,
+            "value": "Plaid"
+          },
+          {
+            "name": "Others",
+            "count": 155,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AOthers",
+            "selected": false,
+            "value": "Others"
+          },
+          {
+            "name": "Geometric",
+            "count": 98,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AGeometric",
+            "selected": false,
+            "value": "Geometric"
+          },
+          {
+            "name": "Texture",
+            "count": 67,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ATexture",
+            "selected": false,
+            "value": "Texture"
+          },
+          {
+            "name": "Other",
+            "count": 55,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AOther",
+            "selected": false,
+            "value": "Other"
+          },
+          {
+            "name": "Colour-Block",
+            "count": 44,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AColour-Block",
+            "selected": false,
+            "value": "Colour-Block"
+          },
+          {
+            "name": "Polka Dot",
+            "count": 41,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3APolka%2BDot",
+            "selected": false,
+            "value": "Polka Dot"
+          },
+          {
+            "name": "Slub",
+            "count": 41,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ASlub",
+            "selected": false,
+            "value": "Slub"
+          },
+          {
+            "name": "Camo",
+            "count": 34,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ACamo",
+            "selected": false,
+            "value": "Camo"
+          },
+          {
+            "name": "Abstract",
+            "count": 26,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AAbstract",
+            "selected": false,
+            "value": "Abstract"
+          },
+          {
+            "name": "Heathered",
+            "count": 14,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AHeathered",
+            "selected": false,
+            "value": "Heathered"
+          },
+          {
+            "name": "Paisley",
+            "count": 14,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3APaisley",
+            "selected": false,
+            "value": "Paisley"
+          },
+          {
+            "name": "Tropical",
+            "count": 14,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ATropical",
+            "selected": false,
+            "value": "Tropical"
+          },
+          {
+            "name": "Ombre",
+            "count": 13,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AOmbre",
+            "selected": false,
+            "value": "Ombre"
+          },
+          {
+            "name": "Embroidery",
+            "count": 10,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AEmbroidery",
+            "selected": false,
+            "value": "Embroidery"
+          },
+          {
+            "name": "Gingham",
+            "count": 10,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AGingham",
+            "selected": false,
+            "value": "Gingham"
+          },
+          {
+            "name": "Animal Print",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AAnimal%2BPrint",
+            "selected": false,
+            "value": "Animal Print"
+          },
+          {
+            "name": "Houndstooth",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AHoundstooth",
+            "selected": false,
+            "value": "Houndstooth"
+          },
+          {
+            "name": "Tie - Dye",
+            "count": 5,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ATie%2B-%2BDye",
+            "selected": false,
+            "value": "Tie - Dye"
+          },
+          {
+            "name": "Distressed",
+            "count": 4,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ADistressed",
+            "selected": false,
+            "value": "Distressed"
+          },
+          {
+            "name": "Graphic",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AGraphic",
+            "selected": false,
+            "value": "Graphic"
+          },
+          {
+            "name": "Pin Stripes",
+            "count": 3,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3APin%2BStripes",
+            "selected": false,
+            "value": "Pin Stripes"
+          },
+          {
+            "name": "Jacquard",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3AJacquard",
+            "selected": false,
+            "value": "Jacquard"
+          },
+          {
+            "name": "Logo",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Apattern-classification%3ALogo",
+            "selected": false,
+            "value": "Logo"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 1000
+      },
+      {
+        "name": "Sleeve",
+        "key": "sleeve-classification",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Full Sleeves",
+            "count": 17388,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3AFull%2BSleeves",
+            "selected": false,
+            "value": "Full Sleeves"
+          },
+          {
+            "name": "Short sleeves",
+            "count": 2399,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3AShort%2Bsleeves",
+            "selected": false,
+            "value": "Short sleeves"
+          },
+          {
+            "name": "Half Sleeves",
+            "count": 408,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3AHalf%2BSleeves",
+            "selected": false,
+            "value": "Half Sleeves"
+          },
+          {
+            "name": "3/4th sleeves",
+            "count": 8,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3A3%252F4th%2Bsleeves",
+            "selected": false,
+            "value": "3/4th sleeves"
+          },
+          {
+            "name": "Sleeveless",
+            "count": 2,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3ASleeveless",
+            "selected": false,
+            "value": "Sleeveless"
+          },
+          {
+            "name": "Elbow sleeves",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3AElbow%2Bsleeves",
+            "selected": false,
+            "value": "Elbow sleeves"
+          },
+          {
+            "name": "Reglan",
+            "count": 1,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3Asleeve-classification%3AReglan",
+            "selected": false,
+            "value": "Reglan"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 1000
+      },
+      {
+        "name": "All Discount",
+        "key": "discountAll",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Discounted Items",
+            "count": 18874,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountAll%3ADiscounted%2BItems",
+            "selected": false,
+            "value": "Discounted Items"
+          },
+          {
+            "name": "Non - Discounted Items",
+            "count": 1433,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AdiscountAll%3ANon%2B-%2BDiscounted%2BItems",
+            "selected": false,
+            "value": "Non - Discounted Items"
+          }
+        ],
+        "selectedFilterCount": 0,
+        "priority": 0
+      },
+      {
+        "name": "Availability",
+        "key": "inStockFlag",
+        "multiSelect": true,
+        "values": [
+          {
+            "name": "Exclude out of stock",
+            "count": 10483,
+            "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101",
+            "selected": true,
+            "value": "true"
+          }
+        ],
+        "selectedFilterCount": 1,
+        "priority": 0
+      }
+    ],
+    "sorts": [
+      {
+        "code": "relevance",
+        "name": "Popularity",
+        "selected": true
+      },
+      {
+        "code": "price-asc",
+        "name": "Price Low to High",
+        "selected": false
+      },
+      {
+        "code": "price-desc",
+        "name": "Price High to Low",
+        "selected": false
+      },
+      {
+        "code": "isDiscountedPrice",
+        "name": "Discounts",
+        "selected": false
+      },
+      {
+        "code": "isProductNew",
+        "name": "New Arrivals",
+        "selected": false
+      }
+    ],
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 40,
+      "totalPages": 508,
+      "totalResults": 20307,
+      "pageLayout": "GridView"
+    },
+    "currentQuery": {
+      "url": "/search/page-{pageNo}?q=%3Arelevance%3Acategory%3AMSH1116101%3AinStockFlag%3Atrue%3AisLuxuryProduct%3Afalse",
+      "query": {
+        "value": ":relevance:category:MSH1116101:inStockFlag:true:isLuxuryProduct:false"
+      },
+      "searchQuery": "",
+      "appliedSort": "relevance",
+      "appliedFilters": "category:MSH1116101:inStockFlag:true:isLuxuryProduct:false",
+      "isKeywordRedirect": false,
+      "partialMatch": false,
+      "suggested": false,
+      "metaData": {
+        "taggerNames": {
+          
+        },
+        "executionMode": "FULL_QUERY_100_MM",
+        "word": ""
+      },
+      "sns": false
+    },
+    "facetdatacategory": {
+      "filters": [
+        {
+          "categoryCode": "MSH11",
+          "categoryName": "Men's Clothing",
+          "level": "L1",
+          "categoryType": "department",
+          "ranking": "0",
+          "selected": false,
+          "childFilters": [
+            {
+              "categoryCode": "MSH1116",
+              "categoryName": "Casual Wear",
+              "level": "L2",
+              "categoryType": "category",
+              "ranking": "0",
+              "selected": false,
+              "childFilters": [
+                {
+                  "categoryCode": "MSH1116101",
+                  "categoryName": "Shirts",
+                  "level": "L3",
+                  "categoryType": "category",
+                  "ranking": "0",
+                  "selected": true,
+                  "quantity": 20307
+                }
+              ],
+              "quantity": 20307
+            }
+          ],
+          "quantity": 20307
+        }
+      ],
+      "name": "Category",
+      "key": "category",
+      "priority": 6000,
+      "category": true,
+      "multiSelect": true,
+      "visible": true,
+      "selected": true
+    },
+    "seo": {
+      "canonicalURL": "/mens-clothing-casual-wear-shirts/c-msh1116101",
+      "alternateURL": "/mens-clothing-casual-wear-shirts/c-msh1116101",
+      "breadcrumbs": [
+        {
+          "name": "Shirts",
+          "url": "/mens-clothing-casual-wear-shirts/c-msh1116101"
+        },
+        {
+          "name": "Casual Wear",
+          "url": "/mens-clothing-casual-wear/c-msh1116"
+        },
+        {
+          "name": "Men's Clothing",
+          "url": "/mens-clothing/c-msh11"
+        }
+      ],
+      "relNext": "/men's-clothing-casual-wear-shirts/c-msh1116101/page-2",
+      "tag": "Men's Casual Shirts",
+      "lastModifiedDate": 1637916691650
+    },
+    "status": "Success",
+    "view": {
+      "imageToggle": false
+    },
+    "type": "productSearchPageWsDto",
+    "coachMarkEnabled": true,
+    "noOfCoachMarkSession": 3,
+    "noOfCoachMarkInfoSession": 2
+  }
