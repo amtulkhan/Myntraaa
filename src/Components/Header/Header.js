@@ -7,7 +7,7 @@ import { AiOutlineUser,AiOutlineHeart,AiOutlineShopping} from "react-icons/ai";
 
 export default function Header() {
     return (
-        <Navbar bg="light" expand="lg" className="navbar-css">
+        <Navbar bg="light" expand="lg" className="navbar-css" sticky="top">
             <Container fluid>
                 <Navbar.Brand href="#"><img className="myntra-logo" src={MyntraLogo} height="4vh" width="100%" /></Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />

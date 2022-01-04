@@ -15,7 +15,7 @@ export default function Breadcrumbs() {
 
                     </Breadcrumb>
                     <span className='category-head'>
-                        Shirts for Men - <span className='category-number'>567890</span>
+                        Shirts for Men - <span className='category-number'>567890 items</span>
                     </span>
                 </Col>
             </Row>

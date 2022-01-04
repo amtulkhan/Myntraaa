@@ -1,0 +1,17 @@
+.filterHead-col{
+    padding-left: 2% !important;
+    padding-top: 1%;
+}
+.Filter-head,.FilterItem{
+    color: #282c3f !important;
+    font-weight: 700 !important;
+}
+.Filter-head{
+    font-size: 1.2vw;
+}
+.FilterItem{
+    font-size: 0.9vw !important;
+}
+.NestItem{
+    font-size: 0.8vw;
+}
