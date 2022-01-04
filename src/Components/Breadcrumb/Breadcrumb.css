@@ -1,0 +1,35 @@
+.bread-col{
+    padding-top: 1%;
+    padding-left: 2% !important;
+}
+.bread{
+    font-size: 0.9vw;
+
+}
+.breadActive{
+    color: #282c3f;
+    text-transform: capitalize;
+}
+
+.breadLink{
+    color: #282c3f;
+    text-transform: capitalize;
+    font-weight: 600;
+    text-decoration: none !important;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none !important;
+    color: #282c3f !important;
+    
+}
+.category-head,.category-number{
+    font-size: 1vw;
+    color: #282c3f;
+
+}
+.category-head{
+    font-weight: 600;
+}
+.category-number{
+    font-weight:200;
+}
