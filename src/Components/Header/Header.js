@@ -1,12 +1,15 @@
 import react from "react";
-import { Container, Navbar, Nav,NavDropdown, Button, Form,FormControl } from "react-bootstrap";
+import "./header.css";
+import { Container, Navbar, Nav, NavDropdown, Button, Form, FormControl, InputGroup, Row, Col } from "react-bootstrap";
+import MyntraLogo from "../../Assets/MyntraLogo.png";
+import { AiOutlineUser,AiOutlineHeart,AiOutlineShopping} from "react-icons/ai";
 
 
 export default function Header() {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg" className="navbar-css">
             <Container fluid>
-                <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+                <Navbar.Brand href="#"><img className="myntra-logo" src={MyntraLogo} height="4vh" width="100%" /></Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                     <Nav
@@ -14,29 +17,41 @@ export default function Header() {
                         style={{ maxHeight: '100px' }}
                         navbarScroll
                     >
-                        <Nav.Link href="#action1">Home</Nav.Link>
-                        <Nav.Link href="#action2">Link</Nav.Link>
-                        <NavDropdown title="Link" id="navbarScrollingDropdown">
-                            <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Another action</NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action5">
-                                Something else here
-                            </NavDropdown.Item>
-                        </NavDropdown>
-                        <Nav.Link href="#" disabled>
-                            Link
+                        <Nav.Link href="/men" className="nav-links">Men</Nav.Link>
+                        <Nav.Link href="#action2" className="nav-link" disabled>Women</Nav.Link>
+                        <Nav.Link href="#" className="nav-link" disabled>
+                            Kids
+                        </Nav.Link>
+                        <Nav.Link href="#" className="nav-link" disabled>
+                            Offers
                         </Nav.Link>
                     </Nav>
                     <Form className="d-flex">
+
                         <FormControl
                             type="search"
-                            placeholder="Search"
+                            placeholder="Search for products brands and more"
                             className="me-2"
                             aria-label="Search"
                         />
-                        <Button variant="outline-success">Search</Button>
+
+
                     </Form>
+                    <Row>
+                        <Col lg={4} className="Nav-col">
+                            <AiOutlineUser size={20}/>
+                            <span className="Nav-span">Profile</span>
+                        </Col>
+                        <Col lg={4} className="Nav-col">
+                            <AiOutlineHeart size={20}/>
+                            <span className="Nav-span">Wishlist</span>
+                        </Col>
+                        <Col lg={4} className="Nav-col">
+                            <AiOutlineShopping size={20}/>
+                            <span className="Nav-span">Bag</span>
+                        </Col>
+
+                    </Row>
                 </Navbar.Collapse>
             </Container>
         </Navbar>

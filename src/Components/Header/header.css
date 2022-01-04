@@ -1,0 +1,26 @@
+.navbar-css{
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    background-color: #fff;
+}
+.myntra-logo{
+    height: 4vh;
+    width: 100%;
+}
+
+.nav-links{
+    color: #282c3f !important;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+.Nav-col{
+    display: grid;
+    padding: 1%;
+}
+
+.Nav-span{
+    color: #000;
+    font-size: 1vw;
+    font-weight: 500;
+    
+}
