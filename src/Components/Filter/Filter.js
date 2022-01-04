@@ -67,7 +67,12 @@ export default function Filter() {
                                                 disableRipple
                                                 inputProps={{ 'aria-labelledby': labelId }}
                                                 onClick={handleToggle(value)}
-                                                color='default'
+                                                sx={{
+                                                    color: "#282c3f",
+                                                    '&.Mui-checked': {
+                                                      color: "#ff3f6c",
+                                                    },
+                                                  }}
                                                 size='0.5px'
                                             />
 
@@ -102,7 +107,13 @@ export default function Filter() {
                                                 disableRipple
                                                 inputProps={{ 'aria-labelledby': labelId }}
                                                 onClick={handleToggle(value)}
-                                                color='default'
+                                                sx={{
+                                                    color: "#282c3f",
+                                                    '&.Mui-checked': {
+                                                      color: "#ff3f6c",
+                                                    },
+                                                  }}
+                                                
                                                 size='0.5px'
                                             />
 
@@ -137,7 +148,12 @@ export default function Filter() {
                                                 disableRipple
                                                 inputProps={{ 'aria-labelledby': labelId }}
                                                 onClick={handleToggle(value)}
-                                                color='default'
+                                                sx={{
+                                                    color: "#282c3f",
+                                                    '&.Mui-checked': {
+                                                      color: "#ff3f6c",
+                                                    },
+                                                  }}
                                                 size='0.5px'
                                             />
 
